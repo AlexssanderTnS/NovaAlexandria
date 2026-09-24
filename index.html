@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#f8f5ec" />
+    <meta
+      name="description"
+      content="Explore a Nova Alexandria: conhecimento ilumina caminhos."
+    />
+    <title>Nova Alexandria</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/png" href="assets/Icon.png" />
+
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#conteudo">Ir ao conteúdo</a>
+    <header class="nav">
+      <a
+        href="index.html"
+        class="brand"
+        aria-label="Nova Alexandria - Página inicial"
+      >
+        <img
+          src="assets/logo-horizontal.png"
+          alt="Nova Alexandria - Ad Incognitum"
+          class="brand-logo"
+        />
+      </a>
+      <nav class="desktop-nav" aria-label="Navegação principal">
+        <a href="#agora">Ágora</a><a href="#explorar">Explorar</a
+        ><a href="#atlas">Atlas</a><a href="#arquivo">Arquivo</a
+        ><a href="#oraculo">Oráculo</a>
+      </nav>
+      <a class="login" href="#acesso" data-demo="Acesso">Entrar</a
+      ><button
+        class="menu"
+        id="menuBtn"
+        aria-label="Abrir menu"
+        aria-expanded="false"
+        aria-controls="mobileNav"
+      >
+        ☰
+      </button>
+    </header>
+    <nav class="mobile-nav" id="mobileNav" aria-label="Navegação móvel" hidden>
+      <a href="#agora">Ágora</a><a href="#explorar">Explorar</a
+      ><a href="#atlas">Atlas</a><a href="#arquivo">Arquivo</a
+      ><a href="#oraculo">Oráculo</a>
+    </nav>
+    <main id="conteudo">
+      <section id="inicio" class="hero" aria-labelledby="heroTitle">
+        <div
+          class="scene-scroll"
+          aria-label="Paisagem explorável: no celular, deslize horizontalmente para descobrir a cidade"
+        >
+          <div class="scene">
+            <img
+              src="assets/alexandria-panorama.png"
+              alt="Vista ilustrada de Alexandria: farol ao centro, academia à direita e globo sobre a varanda"
+              width="1918"
+              height="1024"
+            />
+            <div class="hero-copy">
+              <p class="eyebrow">NOVA ALEXANDRIA · AD INCOGNITUM</p>
+              <h1 id="heroTitle">Conhecimento<br />ilumina caminhos.</h1>
+              <p>
+                Explore culturas, ideias e descobertas. Uma jornada pelo saber,
+                para um mundo mais conectado.
+              </p>
+              <div class="hero-buttons">
+                <a class="primary" href="#explorar"
+                  >Iniciar exploração <span aria-hidden="true">→</span></a
+                ><a class="secondary" href="#oraculo">Perguntar ao Oráculo</a>
+              </div>
+            </div>
+            <button
+              class="hotspot farol"
+              data-place="farol"
+              aria-label="Conhecer o Farol e a Nova Alexandria"
+            >
+              <span class="pulse" aria-hidden="true">✦</span
+              ><span class="hint">O Farol</span></button
+            ><button
+              class="hotspot academia"
+              data-place="academia"
+              aria-label="Explorar a Academia e a Ágora"
+            >
+              <span class="pulse" aria-hidden="true">✦</span
+              ><span class="hint">A Academia</span></button
+            ><button
+              class="hotspot globo"
+              data-place="globo"
+              aria-label="Descobrir o Globo e o Atlas"
+            >
+              <span class="pulse" aria-hidden="true">✦</span
+              ><span class="hint">O Globo</span>
+            </button>
+            <div class="scene-caption">UM MUNDO DE IDEIAS ESPERA POR VOCÊ</div>
+          </div>
+        </div>
+        <p class="scene-instruction">
+          ✧ Explore a paisagem: toque nos pontos dourados.
+          <span class="mobile-only"
+            >Deslize para os lados para conhecer a cidade.</span
+          >
+        </p>
+      </section>
+      <section class="destinations" id="explorar">
+        <p class="eyebrow">QUATRO CAMINHOS, INFINITAS DESCOBERTAS</p>
+        <h2>Por onde começa sua jornada?</h2>
+        <p class="intro">
+          Cada espaço abre uma maneira diferente de explorar o conhecimento.
+        </p>
+        <div class="cards">
+          <article id="agora">
+            <span class="symbol" aria-hidden="true">⌂</span>
+            <h3>Ágora</h3>
+            <p>
+              Descubra ideias, pessoas e temas que despertam novas perguntas.
+            </p>
+            <a href="#agora" data-demo="Ágora"
+              >Conhecer <span aria-hidden="true">→</span></a
+            >
+          </article>
+          <article id="atlas">
+            <span class="symbol" aria-hidden="true">✧</span>
+            <h3>Atlas</h3>
+            <p>
+              Descubra como lugares, épocas e conhecimentos se conectam na Teia
+              do Tempo.
+            </p>
+            <a href="#atlas" data-demo="Atlas"
+              >Conhecer <span aria-hidden="true">→</span></a
+            >
+          </article>
+          <article id="arquivo">
+            <span class="symbol" aria-hidden="true">▤</span>
+            <h3>Arquivo</h3>
+            <p>Guarde descobertas e construa sua própria biblioteca.</p>
+            <a href="#arquivo" data-demo="Arquivo"
+              >Conhecer <span aria-hidden="true">→</span></a
+            >
+          </article>
+          <article id="oraculo">
+            <span class="symbol" aria-hidden="true">✺</span>
+            <h3>Oráculo</h3>
+            <p>Pergunte, descubra e reflita com o acervo da Nova Alexandria.</p>
+            <a href="#oraculo" data-demo="Oráculo"
+              >Conhecer <span aria-hidden="true">→</span></a
+            >
+          </article>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <span>Nova Alexandria · Ad Incognitum</span
+      ><span>Conhecimento ilumina caminhos.</span>
+    </footer>
+    <dialog id="placeDialog" aria-labelledby="dialogTitle">
+      <button id="closeDialog" class="close" aria-label="Fechar">×</button>
+      <p class="eyebrow">DESCUBRA A CIDADE</p>
+      <h2 id="dialogTitle"></h2>
+      <p id="dialogText"></p>
+      <a id="dialogLink" class="primary" href="#explorar"
+        >Continuar explorando →</a
+      >
+    </dialog>
+    <script src="script.js" defer></script>
+  </body>
+</html>
