@@ -1,0 +1,56 @@
+[
+  {
+    "id": "biblioteca-alexandria",
+    "titulo": "Biblioteca de Alexandria",
+    "categoria": "História",
+    "periodo": "Antiguidade",
+    "regiao": "Egito",
+    "resumo": "O projeto intelectual de Alexandria e seu papel na circulação do conhecimento no mundo helenístico.",
+    "imagem": null
+  },
+  {
+    "id": "alexandre-magno",
+    "titulo": "Alexandre, o Grande",
+    "categoria": "História",
+    "periodo": "Século IV a.C.",
+    "regiao": "Macedônia e Ásia",
+    "resumo": "As campanhas de Alexandre e as transformações políticas e culturais associadas à expansão macedônica.",
+    "imagem": null
+  },
+  {
+    "id": "euclides",
+    "titulo": "Euclides e a Geometria",
+    "categoria": "Ciência",
+    "periodo": "Século III a.C.",
+    "regiao": "Alexandria",
+    "resumo": "A tradição matemática ligada a Euclides e a importância dos Elementos na história da geometria.",
+    "imagem": null
+  },
+  {
+    "id": "queda-constantinopla",
+    "titulo": "Queda de Constantinopla",
+    "categoria": "História",
+    "periodo": "1453",
+    "regiao": "Constantinopla",
+    "resumo": "O fim do Império Bizantino e as mudanças políticas ligadas à conquista otomana.",
+    "imagem": null
+  },
+  {
+    "id": "renascimento",
+    "titulo": "Renascimento",
+    "categoria": "Arte",
+    "periodo": "Séculos XIV–XVI",
+    "regiao": "Europa",
+    "resumo": "Transformações artísticas e intelectuais que marcaram diferentes regiões da Europa.",
+    "imagem": null
+  },
+  {
+    "id": "filosofia-grega",
+    "titulo": "Filosofia Grega",
+    "categoria": "Filosofia",
+    "periodo": "Antiguidade",
+    "regiao": "Grécia",
+    "resumo": "Perguntas e ideias que influenciaram debates sobre conhecimento, ética e natureza.",
+    "imagem": null
+  }
+]
