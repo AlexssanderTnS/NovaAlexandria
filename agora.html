@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f8f5ec">
+<meta name="description" content="Explore assuntos e descubra conexões na Ágora da Nova Alexandria.">
+<title>Ágora | Nova Alexandria</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="icon" href="assets/Icon.png" type="image/png">
+<link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="css/agora.css">
+<script src="js/agora.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#conteudo">Ir ao conteúdo</a>
+<header class="nav">
+<a href="index.html" class="brand" aria-label="Nova Alexandria — Página inicial"><img src="assets/logo-horizontal.png" alt="Nova Alexandria — Ad Incognitum" class="brand-logo"></a>
+<nav class="desktop-nav" aria-label="Navegação principal"><a href="index.html">Início</a><a href="agora.html" aria-current="page">Ágora</a></nav>
+<a class="login" href="index.html">Voltar ao início</a>
+</header>
+<main id="conteudo">
+<section class="agora-hero">
+<div class="agora-wrap">
+<p class="eyebrow">NOVA ALEXANDRIA · ÁGORA</p>
+<h1>Todo conhecimento é um ponto de partida.</h1>
+<p class="agora-lead">Explore acontecimentos, personagens, ideias e descobertas. Escolha um assunto e siga suas conexões pelo tempo e pelo conhecimento.</p>
+<div class="agora-search"><label for="busca">Encontre seu próximo assunto</label><input id="busca" type="search" placeholder="Pesquise por tema, período ou região…" autocomplete="off"></div>
+</div>
+</section>
+<section class="agora-wrap agora-content" aria-labelledby="assuntos-title">
+<div class="agora-heading"><div><p class="eyebrow">ACERVO EM EXPLORAÇÃO</p><h2 id="assuntos-title">Assuntos para descobrir</h2></div><p id="contador" role="status" aria-live="polite">Carregando assuntos…</p></div>
+<div id="filtros" class="agora-filtros" role="group" aria-label="Filtrar por categoria"><button type="button" class="ativo" data-categoria="Todas" aria-pressed="true">Todas</button></div>
+<div id="assuntos" class="agora-grid" aria-live="polite"></div>
+<p id="vazio" class="agora-vazio" hidden>Nenhum assunto corresponde à sua busca. Tente outro termo ou categoria.</p>
+</section>
+</main>
+<footer><span>Nova Alexandria · Ad Incognitum</span><span>Conhecimento ilumina caminhos.</span></footer>
+</body></html>
