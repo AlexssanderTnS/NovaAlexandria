@@ -1156,5 +1156,351 @@
       ],
       "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
     }
+  },
+  {
+    "id": "povos-originarios",
+    "titulo": "Povos originários antes de 1500",
+    "categoria": "Brasil antes de 1500",
+    "inicio": -12000,
+    "fim": 1500,
+    "periodo": "Antes de 1500",
+    "regiao": "Território brasileiro",
+    "resumo": "Muito antes da colonização portuguesa, diferentes povos construíram sociedades, línguas e conhecimentos nos territórios que hoje formam o Brasil.",
+    "conteudo": [
+      "Vestígios arqueológicos mostram a presença humana em diferentes regiões do atual Brasil muito antes de 1500. As datas e interpretações variam conforme o sítio e a pesquisa, e não existe uma única narrativa para todo o território.",
+      "Povos com línguas, tecnologias, formas de organização e relações ambientais distintas ocupavam florestas, campos, litoral e outras paisagens. A ideia de um território vazio antes da chegada europeia é historicamente incorreta."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Biblioteca Nacional Digital — acervos históricos",
+        "url": "https://bndigital.bn.gov.br/"
+      },
+      {
+        "titulo": "Arquivo Nacional — portal institucional",
+        "url": "https://www.gov.br/arquivonacional/pt-br"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "colonizacao-portuguesa",
+        "tipo": "tematica"
+      }
+    ],
+    "artigo": {
+      "introducao": "Muito antes da colonização portuguesa, diferentes povos construíram sociedades, línguas e conhecimentos nos territórios que hoje formam o Brasil.",
+      "secoes": [
+        {
+          "titulo": "Um território habitado há milênios",
+          "paragrafos": [
+            "Vestígios arqueológicos mostram a presença humana em diferentes regiões do atual Brasil muito antes de 1500. As datas e interpretações variam conforme o sítio e a pesquisa, e não existe uma única narrativa para todo o território."
+          ]
+        },
+        {
+          "titulo": "Diversidade de sociedades",
+          "paragrafos": [
+            "Povos com línguas, tecnologias, formas de organização e relações ambientais distintas ocupavam florestas, campos, litoral e outras paisagens. A ideia de um território vazio antes da chegada europeia é historicamente incorreta."
+          ]
+        },
+        {
+          "titulo": "Conhecimentos que permanecem",
+          "paragrafos": [
+            "Práticas agrícolas, conhecimentos botânicos, técnicas de manejo e tradições orais atravessaram gerações. Os povos indígenas são contemporâneos: suas histórias não terminaram com o início da colonização."
+          ]
+        }
+      ],
+      "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
+    }
+  },
+  {
+    "id": "colonizacao-portuguesa",
+    "titulo": "Colonização portuguesa e resistências",
+    "categoria": "Brasil Colonial",
+    "inicio": 1500,
+    "fim": 1822,
+    "periodo": "Séculos XVI–XIX",
+    "regiao": "América portuguesa",
+    "resumo": "A colonização portuguesa envolveu disputas territoriais, exploração econômica, escravização e resistências indígenas e africanas.",
+    "conteudo": [
+      "A presença portuguesa se expandiu de modo desigual, por meio de expedições, alianças, guerras, missões e núcleos coloniais. As populações indígenas não formavam um único grupo e reagiram de maneiras diversas.",
+      "A economia colonial recorreu à escravização indígena e, em larga escala, ao tráfico transatlântico de africanos escravizados. Esse sistema produziu riquezas para determinados grupos e violências profundas para milhões de pessoas."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Biblioteca Nacional Digital — acervos históricos",
+        "url": "https://bndigital.bn.gov.br/"
+      },
+      {
+        "titulo": "Arquivo Nacional — portal institucional",
+        "url": "https://www.gov.br/arquivonacional/pt-br"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "povos-originarios",
+        "tipo": "tematica"
+      },
+      {
+        "id": "independencia-brasil",
+        "tipo": "tematica"
+      }
+    ],
+    "artigo": {
+      "introducao": "A colonização portuguesa envolveu disputas territoriais, exploração econômica, escravização e resistências indígenas e africanas.",
+      "secoes": [
+        {
+          "titulo": "Conquista e ocupação",
+          "paragrafos": [
+            "A presença portuguesa se expandiu de modo desigual, por meio de expedições, alianças, guerras, missões e núcleos coloniais. As populações indígenas não formavam um único grupo e reagiram de maneiras diversas."
+          ]
+        },
+        {
+          "titulo": "Trabalho e violência",
+          "paragrafos": [
+            "A economia colonial recorreu à escravização indígena e, em larga escala, ao tráfico transatlântico de africanos escravizados. Esse sistema produziu riquezas para determinados grupos e violências profundas para milhões de pessoas."
+          ]
+        },
+        {
+          "titulo": "Resistências e transformações",
+          "paragrafos": [
+            "Fugas, quilombos, revoltas, negociações e preservação de práticas culturais fizeram parte da história colonial. Estudar o período exige observar as experiências dos grupos submetidos à dominação."
+          ]
+        }
+      ],
+      "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
+    }
+  },
+  {
+    "id": "independencia-brasil",
+    "titulo": "Independência do Brasil",
+    "categoria": "Brasil Império",
+    "inicio": 1808,
+    "fim": 1825,
+    "periodo": "1822 e seus desdobramentos",
+    "regiao": "Brasil",
+    "resumo": "A independência foi um processo político e militar com conflitos regionais, e não apenas um acontecimento isolado em 7 de setembro.",
+    "conteudo": [
+      "A transferência da corte para o Rio de Janeiro em 1808 e as disputas políticas posteriores transformaram as relações entre Portugal e Brasil. A Revolução Liberal do Porto, em 1820, ampliou tensões.",
+      "A proclamação de 1822 tornou-se um marco simbólico, mas a separação envolveu disputas políticas e combates em diferentes províncias. Grupos sociais participaram do processo de maneiras desiguais."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Biblioteca Nacional Digital — acervos históricos",
+        "url": "https://bndigital.bn.gov.br/"
+      },
+      {
+        "titulo": "Arquivo Nacional — portal institucional",
+        "url": "https://www.gov.br/arquivonacional/pt-br"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "colonizacao-portuguesa",
+        "tipo": "tematica"
+      },
+      {
+        "id": "proclamacao-republica",
+        "tipo": "tematica"
+      }
+    ],
+    "artigo": {
+      "introducao": "A independência foi um processo político e militar com conflitos regionais, e não apenas um acontecimento isolado em 7 de setembro.",
+      "secoes": [
+        {
+          "titulo": "Uma crise do mundo português",
+          "paragrafos": [
+            "A transferência da corte para o Rio de Janeiro em 1808 e as disputas políticas posteriores transformaram as relações entre Portugal e Brasil. A Revolução Liberal do Porto, em 1820, ampliou tensões."
+          ]
+        },
+        {
+          "titulo": "Ruptura e conflitos",
+          "paragrafos": [
+            "A proclamação de 1822 tornou-se um marco simbólico, mas a separação envolveu disputas políticas e combates em diferentes províncias. Grupos sociais participaram do processo de maneiras desiguais."
+          ]
+        },
+        {
+          "titulo": "O que permaneceu",
+          "paragrafos": [
+            "A independência não aboliu a escravidão nem eliminou hierarquias sociais. A construção do novo Estado imperial continuou marcada por conflitos e negociações."
+          ]
+        }
+      ],
+      "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
+    }
+  },
+  {
+    "id": "proclamacao-republica",
+    "titulo": "Proclamação da República",
+    "categoria": "Brasil Republicano",
+    "inicio": 1889,
+    "fim": 1891,
+    "periodo": "1889–1891",
+    "regiao": "Brasil",
+    "resumo": "A mudança de regime em 1889 encerrou a monarquia e iniciou uma reorganização política que não significou participação democrática ampla.",
+    "conteudo": [
+      "O fim da monarquia ocorreu em um contexto de disputas militares, transformações sociais e desgaste das relações entre o governo imperial e setores de poder.",
+      "Militares tiveram papel central na derrubada da monarquia. A participação popular no evento foi limitada, e a transição não resolveu as desigualdades herdadas do período anterior."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Biblioteca Nacional Digital — acervos históricos",
+        "url": "https://bndigital.bn.gov.br/"
+      },
+      {
+        "titulo": "Arquivo Nacional — portal institucional",
+        "url": "https://www.gov.br/arquivonacional/pt-br"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "independencia-brasil",
+        "tipo": "tematica"
+      },
+      {
+        "id": "ditadura-militar-brasil",
+        "tipo": "tematica"
+      }
+    ],
+    "artigo": {
+      "introducao": "A mudança de regime em 1889 encerrou a monarquia e iniciou uma reorganização política que não significou participação democrática ampla.",
+      "secoes": [
+        {
+          "titulo": "Crise do Império",
+          "paragrafos": [
+            "O fim da monarquia ocorreu em um contexto de disputas militares, transformações sociais e desgaste das relações entre o governo imperial e setores de poder."
+          ]
+        },
+        {
+          "titulo": "A mudança de 15 de novembro",
+          "paragrafos": [
+            "Militares tiveram papel central na derrubada da monarquia. A participação popular no evento foi limitada, e a transição não resolveu as desigualdades herdadas do período anterior."
+          ]
+        },
+        {
+          "titulo": "Uma nova ordem política",
+          "paragrafos": [
+            "A Constituição de 1891 instituiu um novo arranjo republicano e federativo. A cidadania política permaneceu restrita para grandes parcelas da população."
+          ]
+        }
+      ],
+      "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
+    }
+  },
+  {
+    "id": "ditadura-militar-brasil",
+    "titulo": "Ditadura militar no Brasil",
+    "categoria": "Ditadura e Redemocratização",
+    "inicio": 1964,
+    "fim": 1985,
+    "periodo": "1964–1985",
+    "regiao": "Brasil",
+    "resumo": "O golpe de 1964 iniciou um regime autoritário marcado por censura, perseguições políticas e violações de direitos humanos.",
+    "conteudo": [
+      "A deposição do presidente João Goulart abriu caminho para governos militares. O regime restringiu direitos políticos e alterou profundamente o funcionamento das instituições.",
+      "Censura, prisões arbitrárias, tortura e desaparecimentos forçados marcaram o período. Diferentes setores da sociedade organizaram formas de oposição e defesa de direitos."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Biblioteca Nacional Digital — acervos históricos",
+        "url": "https://bndigital.bn.gov.br/"
+      },
+      {
+        "titulo": "Arquivo Nacional — portal institucional",
+        "url": "https://www.gov.br/arquivonacional/pt-br"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "proclamacao-republica",
+        "tipo": "tematica"
+      },
+      {
+        "id": "constituicao-1988",
+        "tipo": "tematica"
+      }
+    ],
+    "artigo": {
+      "introducao": "O golpe de 1964 iniciou um regime autoritário marcado por censura, perseguições políticas e violações de direitos humanos.",
+      "secoes": [
+        {
+          "titulo": "O golpe de 1964",
+          "paragrafos": [
+            "A deposição do presidente João Goulart abriu caminho para governos militares. O regime restringiu direitos políticos e alterou profundamente o funcionamento das instituições."
+          ]
+        },
+        {
+          "titulo": "Repressão e resistência",
+          "paragrafos": [
+            "Censura, prisões arbitrárias, tortura e desaparecimentos forçados marcaram o período. Diferentes setores da sociedade organizaram formas de oposição e defesa de direitos."
+          ]
+        },
+        {
+          "titulo": "A abertura política",
+          "paragrafos": [
+            "A transição para o governo civil em 1985 resultou de um processo gradual, marcado por mobilização social e negociações. A Constituição de 1988 tornou-se referência da redemocratização."
+          ]
+        }
+      ],
+      "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
+    }
+  },
+  {
+    "id": "constituicao-1988",
+    "titulo": "Constituição de 1988",
+    "categoria": "Brasil Contemporâneo",
+    "inicio": 1987,
+    "fim": 2026,
+    "periodo": "1988–presente",
+    "regiao": "Brasil",
+    "resumo": "A Constituição de 1988 consolidou garantias democráticas e reconheceu direitos civis, políticos e sociais após a ditadura.",
+    "conteudo": [
+      "A Constituição foi elaborada no contexto da redemocratização, com participação de representantes eleitos e mobilização de organizações da sociedade civil.",
+      "O texto constitucional estabeleceu direitos fundamentais e bases institucionais para políticas sociais, participação política e controle do poder estatal."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Biblioteca Nacional Digital — acervos históricos",
+        "url": "https://bndigital.bn.gov.br/"
+      },
+      {
+        "titulo": "Arquivo Nacional — portal institucional",
+        "url": "https://www.gov.br/arquivonacional/pt-br"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "ditadura-militar-brasil",
+        "tipo": "tematica"
+      }
+    ],
+    "artigo": {
+      "introducao": "A Constituição de 1988 consolidou garantias democráticas e reconheceu direitos civis, políticos e sociais após a ditadura.",
+      "secoes": [
+        {
+          "titulo": "Uma assembleia constituinte",
+          "paragrafos": [
+            "A Constituição foi elaborada no contexto da redemocratização, com participação de representantes eleitos e mobilização de organizações da sociedade civil."
+          ]
+        },
+        {
+          "titulo": "Direitos e instituições",
+          "paragrafos": [
+            "O texto constitucional estabeleceu direitos fundamentais e bases institucionais para políticas sociais, participação política e controle do poder estatal."
+          ]
+        },
+        {
+          "titulo": "Uma história em construção",
+          "paragrafos": [
+            "A efetivação dos direitos constitucionais envolve disputas, políticas públicas e decisões judiciais. O documento também passou por emendas ao longo do tempo."
+          ]
+        }
+      ],
+      "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
+    }
   }
 ]
