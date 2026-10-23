@@ -7,3 +7,18 @@
 
 /* Rede de relações reais: linhas secundárias, estados de exploração e ajuda contextual */
 .teia-fio-secundario{pointer-events:none;transition:stroke-opacity .2s,stroke-width .2s}.teia-fio-secundario.is-highlight{stroke-opacity:.85;stroke-width:2.8}.teia-fio-secundario.is-muted{stroke-opacity:.045}.teia-dica{padding:10px 20px;border-top:1px solid #e9dec9;background:#fbf7ef;color:#7b715f;font-size:11px;line-height:1.6;min-height:39px;transition:color .2s,background .2s}.teia-dica.visivel{background:#edf1f0;color:#254f6b;font-weight:600}.teia-canvas{background:radial-gradient(ellipse at 50% 45%,#fffdf7 0%,#f5eddf 68%,#eee0c9 100%)}.teia-no.is-muted{opacity:.23}.teia-no:not(.is-muted):hover circle:nth-child(2){filter:drop-shadow(0 0 7px #c9a96b80)}@media(max-width:560px){.teia-dica{font-size:10px;padding:9px 12px}}
+
+
+/* Refinamento editorial da experiência de exploração */
+.teia-intro{padding:68px 0 58px}
+.teia-intro h1{letter-spacing:-.035em}
+.teia-intro p:last-child{line-height:1.9}
+.explorador{padding-top:52px}
+.teia-controles select{border-radius:12px;min-height:46px}
+.teia-modos button{transition:background .2s ease,color .2s ease}
+.teia-visual,.teia-leitura{border-radius:20px;box-shadow:0 16px 42px #3e301911}
+.teia-leitura{padding:clamp(22px,3vw,36px)}
+.teia-leitura h2{letter-spacing:-.025em}
+.teia-canvas{background:radial-gradient(ellipse at 50% 47%,#fffdf7 0%,#f4ebdb 67%,#e8dcc7 100%)}
+@media(max-width:760px){.teia-intro{padding:48px 0 42px}.explorador{padding-top:35px}}
+@media(prefers-reduced-motion:reduce){.teia-modos button{transition:none}}
