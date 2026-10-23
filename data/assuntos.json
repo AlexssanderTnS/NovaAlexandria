@@ -76,7 +76,19 @@
         }
       ],
       "conclusao": "Explorar a Biblioteca significa investigar tanto a produção de conhecimento quanto sua preservação — e reconhecer as incertezas que permanecem nas fontes antigas."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual afirmação é mais adequada sobre o desaparecimento da Biblioteca de Alexandria?",
+        "opcoes": [
+          "Há certeza de um incêndio único que destruiu todo o acervo.",
+          "Os relatos são fragmentários e não permitem explicar tudo por um único evento.",
+          "Todos os manuscritos foram transferidos para Roma."
+        ],
+        "correta": 1,
+        "explicacao": "As evidências são fragmentárias; a narrativa de uma destruição total por um único incêndio simplifica o debate histórico."
+      }
+    ]
   },
   {
     "id": "alexandre-magno",
@@ -1210,7 +1222,19 @@
         }
       ],
       "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "O que a pesquisa histórica e arqueológica mostra sobre o Brasil anterior a 1500?",
+        "opcoes": [
+          "O território não tinha habitantes.",
+          "Existiam sociedades indígenas diversas, com histórias e conhecimentos próprios.",
+          "Todos os povos tinham a mesma língua."
+        ],
+        "correta": 1,
+        "explicacao": "Havia grande diversidade de povos, línguas, práticas e organizações sociais muito antes da colonização."
+      }
+    ]
   },
   {
     "id": "colonizacao-portuguesa",
@@ -1269,7 +1293,19 @@
         }
       ],
       "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual aspecto faz parte da história colonial brasileira?",
+        "opcoes": [
+          "A inexistência de resistência à colonização.",
+          "A ausência de trabalho escravizado.",
+          "A resistência indígena e africana à dominação colonial."
+        ],
+        "correta": 2,
+        "explicacao": "A história colonial inclui diferentes formas de resistência, negociação e organização social."
+      }
+    ]
   },
   {
     "id": "independencia-brasil",
@@ -1328,7 +1364,19 @@
         }
       ],
       "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Por que a Independência do Brasil não pode ser reduzida a 7 de setembro de 1822?",
+        "opcoes": [
+          "Porque envolveu disputas e conflitos em diferentes províncias.",
+          "Porque aboliu imediatamente a escravidão.",
+          "Porque não houve ruptura política."
+        ],
+        "correta": 0,
+        "explicacao": "A separação foi um processo com conflitos regionais e não acabou com a escravidão."
+      }
+    ]
   },
   {
     "id": "proclamacao-republica",
@@ -1387,7 +1435,19 @@
         }
       ],
       "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Como foi a participação política na Proclamação da República de 1889?",
+        "opcoes": [
+          "Toda a população votou diretamente na mudança.",
+          "Militares tiveram papel central e a participação popular foi limitada.",
+          "O novo regime garantiu sufrágio universal imediato."
+        ],
+        "correta": 1,
+        "explicacao": "A mudança de regime foi protagonizada por setores militares e não representou participação política ampla."
+      }
+    ]
   },
   {
     "id": "ditadura-militar-brasil",
@@ -1446,7 +1506,19 @@
         }
       ],
       "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual das situações caracterizou a ditadura militar brasileira?",
+        "opcoes": [
+          "Ausência de censura e plena liberdade partidária.",
+          "Censura, perseguição política e violações de direitos humanos.",
+          "Eleições presidenciais diretas durante todo o período."
+        ],
+        "correta": 1,
+        "explicacao": "O regime restringiu liberdades e promoveu perseguições; o período também teve resistência social."
+      }
+    ]
   },
   {
     "id": "constituicao-1988",
@@ -1501,6 +1573,18 @@
         }
       ],
       "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Em que contexto foi elaborada a Constituição de 1988?",
+        "opcoes": [
+          "Na transição democrática após a ditadura militar.",
+          "Durante o Brasil Colonial.",
+          "Na fundação da monarquia brasileira."
+        ],
+        "correta": 0,
+        "explicacao": "A Constituição de 1988 é um marco da redemocratização e da ampliação de garantias constitucionais."
+      }
+    ]
   }
 ]
