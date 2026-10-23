@@ -24,3 +24,22 @@
 .estudo-barra button{border-radius:22px}
 .progresso-trilho{height:6px}
 @media(max-width:750px){.ficha-grid{grid-template-columns:1fr;gap:25px;padding-top:42px}.ficha-artigo #texto p{font-size:15px;line-height:1.9}.ficha-lateral{position:static}.artigo-abertura{padding:22px}}
+
+/* Continuidade da jornada entre leitura e teia */
+.artigo-relacionados{margin:54px 0 38px;padding:35px 0;border-top:1px solid var(--sand-light)}
+.artigo-relacionados>p:not(.eyebrow){font-size:13px;color:#68716b;line-height:1.8}
+.relacionados-grid{display:grid!important;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px;margin:23px 0 27px}
+.relacionados-grid .relacionado-card{display:flex;flex-direction:column;gap:11px;padding:22px;border:1px solid #e5d8bf;border-radius:15px;background:#fffdf8;text-decoration:none;color:var(--ink);transition:transform .2s ease,border-color .2s ease,box-shadow .2s ease}
+.relacionados-grid .relacionado-card:hover{transform:translateY(-3px);border-color:var(--gold);box-shadow:0 12px 28px #40331c14}
+.relacionado-card .relacionado-meta{font-size:10px;line-height:1.5;color:var(--terracotta-deep);font-weight:700}
+.relacionado-card strong{font:23px/1.3 "Playfair Display",Georgia,serif;color:#2f4448}
+.relacionado-card .relacionado-resumo{font-size:12px;line-height:1.75;color:#66716c;flex:1}
+.relacionado-card .relacionado-acao{font-size:11px;color:var(--blue);font-weight:700}
+#ver-teias-final{margin:3px 0 0}
+.lateral-relacionados{margin:26px 0;padding-top:22px;border-top:1px solid var(--sand-light)}
+.lateral-relacionados h3{font:21px "Playfair Display",Georgia,serif;margin:0 0 12px}
+#relacionados-lateral{display:grid;gap:9px}
+#relacionados-lateral a{font-size:12px;line-height:1.6;color:var(--blue);text-decoration:none;padding:6px 0}
+#relacionados-lateral a:hover{text-decoration:underline}
+@media(max-width:550px){.relacionados-grid{grid-template-columns:1fr}.artigo-relacionados{padding-top:25px}}
+@media(prefers-reduced-motion:reduce){.relacionados-grid .relacionado-card{transition:none}}
