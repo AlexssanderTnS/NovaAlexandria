@@ -22,23 +22,23 @@
     "relacoes": [
       {
         "id": "euclides",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "alexandre-magno",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "museu-alexandria",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "hipatia",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "filosofia-grega",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -65,15 +65,15 @@
     "relacoes": [
       {
         "id": "biblioteca-alexandria",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "helenismo",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "aristoteles",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       }
     ]
   },
@@ -100,19 +100,19 @@
     "relacoes": [
       {
         "id": "biblioteca-alexandria",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "museu-alexandria",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "arquimedes",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "filosofia-grega",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -139,15 +139,15 @@
     "relacoes": [
       {
         "id": "imperio-bizantino",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "renascimento",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "imprensa-gutenberg",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -174,23 +174,23 @@
     "relacoes": [
       {
         "id": "humanismo",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "imprensa-gutenberg",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "leonardo-da-vinci",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "queda-constantinopla",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "revolucao-cientifica",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -217,23 +217,23 @@
     "relacoes": [
       {
         "id": "socrates",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "platao",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "aristoteles",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "euclides",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "biblioteca-alexandria",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -260,19 +260,19 @@
     "relacoes": [
       {
         "id": "alexandre-magno",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "museu-alexandria",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "biblioteca-alexandria",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "arquimedes",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -299,19 +299,19 @@
     "relacoes": [
       {
         "id": "biblioteca-alexandria",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "euclides",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "helenismo",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "arquimedes",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -338,15 +338,15 @@
     "relacoes": [
       {
         "id": "euclides",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "helenismo",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "museu-alexandria",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -373,11 +373,11 @@
     "relacoes": [
       {
         "id": "platao",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "filosofia-grega",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -404,15 +404,15 @@
     "relacoes": [
       {
         "id": "socrates",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "aristoteles",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "filosofia-grega",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -439,19 +439,19 @@
     "relacoes": [
       {
         "id": "platao",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "alexandre-magno",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "filosofia-grega",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "revolucao-cientifica",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -478,11 +478,11 @@
     "relacoes": [
       {
         "id": "biblioteca-alexandria",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "imperio-bizantino",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -509,11 +509,11 @@
     "relacoes": [
       {
         "id": "hipatia",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "queda-constantinopla",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -540,15 +540,15 @@
     "relacoes": [
       {
         "id": "renascimento",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "imprensa-gutenberg",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "leonardo-da-vinci",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -575,19 +575,19 @@
     "relacoes": [
       {
         "id": "renascimento",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "humanismo",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "queda-constantinopla",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "revolucao-cientifica",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       }
     ]
   },
@@ -614,15 +614,15 @@
     "relacoes": [
       {
         "id": "renascimento",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "humanismo",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "revolucao-cientifica",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   },
@@ -649,19 +649,19 @@
     "relacoes": [
       {
         "id": "renascimento",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "imprensa-gutenberg",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "influencia"
       },
       {
         "id": "leonardo-da-vinci",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       },
       {
         "id": "aristoteles",
-        "tipo": "Conexão histórica ou temática"
+        "tipo": "tematica"
       }
     ]
   }
