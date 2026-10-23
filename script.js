@@ -18,7 +18,7 @@ const places = {
 
         text: "Entre na Ágora, a praça de descoberta da Nova Alexandria. Encontre assuntos, ideias, pessoas e novas perguntas para sua jornada.",
 
-        target: "#agora",
+        target: "agora.html",
 
         label: "Conhecer a Ágora →"
     },
@@ -26,9 +26,9 @@ const places = {
     globo: {
         title: "O Globo — Atlas",
 
-        text: "O Atlas é o lugar de explorar conexões entre conhecimentos. Futuramente, a Teia do Tempo permitirá navegar entre épocas e assuntos relacionados.",
+        text: "O Atlas é o lugar de explorar conexões entre conhecimentos. A Teia do Tempo permite navegar entre épocas e assuntos relacionados.",
 
-        target: "#atlas",
+        target: "teias.html",
 
         label: "Conhecer o Atlas →"
     }
