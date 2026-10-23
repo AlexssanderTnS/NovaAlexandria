@@ -73,6 +73,12 @@
           "paragrafos": [
             "A Biblioteca de Alexandria tornou-se símbolo da preservação e transmissão do conhecimento. Sua história mostra como ideias dependem de redes de pessoas, instituições e cópias para sobreviver. É também uma porta de entrada para compreender Euclides, o Mouseion e o mundo helenístico."
           ]
+        },
+        {
+          "titulo": "Fontes antigas e seus limites",
+          "paragrafos": [
+            "As informações sobre a Biblioteca chegam por testemunhos produzidos em épocas diferentes, nem sempre próximos dos acontecimentos descritos. Uma leitura crítica pergunta quem escreveu cada relato, com qual finalidade e quanto tempo depois dos fatos. É por isso que o desaparecimento da instituição não deve ser reduzido a uma narrativa de incêndio único."
+          ]
         }
       ],
       "conclusao": "Explorar a Biblioteca significa investigar tanto a produção de conhecimento quanto sua preservação — e reconhecer as incertezas que permanecem nas fontes antigas."
@@ -88,7 +94,9 @@
         "correta": 1,
         "explicacao": "As evidências são fragmentárias; a narrativa de uma destruição total por um único incêndio simplifica o debate histórico."
       }
-    ]
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "alexandre-magno",
@@ -144,10 +152,30 @@
           "paragrafos": [
             "A morte de Alexandre em 323 a.C. foi seguida por disputas entre seus sucessores. A formação de reinos helenísticos ajuda a explicar a circulação de práticas e ideias no Mediterrâneo oriental."
           ]
+        },
+        {
+          "titulo": "Conquista não é integração uniforme",
+          "paragrafos": [
+            "A expansão macedônica reuniu territórios com instituições, línguas e tradições diferentes. As mudanças culturais posteriores variaram conforme as regiões e não significaram o desaparecimento imediato das práticas locais."
+          ]
         }
       ],
       "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Alexandre, o Grande de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "euclides",
@@ -207,10 +235,30 @@
           "paragrafos": [
             "A obra foi estudada, traduzida e comentada em diferentes contextos históricos. Ela oferece um caminho para compreender a ideia de demonstração rigorosa."
           ]
+        },
+        {
+          "titulo": "Demonstração e conhecimento matemático",
+          "paragrafos": [
+            "Os Elementos organizam definições, postulados e demonstrações em uma sequência argumentativa. Sua importância está também no método de justificar proposições, e não apenas nos resultados geométricos associados ao nome de Euclides."
+          ]
         }
       ],
       "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Euclides e a Geometria de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "queda-constantinopla",
@@ -266,10 +314,30 @@
           "paragrafos": [
             "A cidade passou a ocupar posição central no poder otomano. Associar a queda ao início do Renascimento é simplificador, porque transformações humanistas e artísticas já aconteciam antes."
           ]
+        },
+        {
+          "titulo": "Uma transformação de longa duração",
+          "paragrafos": [
+            "A conquista otomana de Constantinopla em 1453 encerrou o governo bizantino na cidade, mas não produziu, sozinha, uma passagem instantânea da Idade Média para a Moderna. Mudanças políticas, comerciais e intelectuais já estavam em curso."
+          ]
         }
       ],
       "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Queda de Constantinopla de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "renascimento",
@@ -341,10 +409,30 @@
           "paragrafos": [
             "Famílias influentes, instituições e cidades financiaram obras e estudos. O humanismo e a impressão de livros contribuíram para a circulação de ideias, sem eliminar desigualdades no acesso à educação."
           ]
+        },
+        {
+          "titulo": "Limites da ideia de renascimento",
+          "paragrafos": [
+            "O termo costuma enfatizar o interesse por obras clássicas, mas pode sugerir equivocadamente que a produção cultural medieval foi interrompida. A historiografia analisa continuidades e diferenças regionais, em vez de tratar o período como ruptura absoluta."
+          ]
         }
       ],
       "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Renascimento de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "filosofia-grega",
@@ -416,10 +504,30 @@
           "paragrafos": [
             "Grande parte dos textos antigos se perdeu. O conhecimento atual depende de manuscritos preservados, citações, comentários e traduções posteriores."
           ]
+        },
+        {
+          "titulo": "Diversidade de escolas e perguntas",
+          "paragrafos": [
+            "A filosofia grega não constitui uma doutrina única. Investigações sobre natureza, linguagem, ética, política e conhecimento receberam respostas divergentes entre pensadores e escolas, muitas vezes em debate direto."
+          ]
         }
       ],
       "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Filosofia Grega de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "helenismo",
@@ -479,10 +587,30 @@
           "paragrafos": [
             "A cidade egípcia se destacou como centro de estudo e circulação de textos. O Mouseion e a Biblioteca são frequentemente associados a esse ambiente."
           ]
+        },
+        {
+          "titulo": "Circulação e diversidade",
+          "paragrafos": [
+            "A difusão da língua grega em certos espaços administrativos e intelectuais não eliminou idiomas nem tradições locais. O mundo helenístico foi caracterizado por encontros culturais, disputas políticas e apropriações variadas."
+          ]
         }
       ],
       "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Mundo Helenístico de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "museu-alexandria",
@@ -542,10 +670,30 @@
           "paragrafos": [
             "A relação entre o Mouseion e a Biblioteca é fundamental para estudar a organização do saber no período helenístico, mesmo que não conheçamos todos os seus aspectos administrativos."
           ]
+        },
+        {
+          "titulo": "Instituição e pesquisa",
+          "paragrafos": [
+            "O Mouseion é associado ao patrocínio de estudiosos na Alexandria ptolomaica. As informações preservadas não permitem reconstruir todos os detalhes de seu funcionamento, razão pela qual é importante distinguir o que se sabe das reconstruções modernas."
+          ]
         }
       ],
       "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Museu de Alexandria de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "arquimedes",
@@ -601,10 +749,30 @@
           "paragrafos": [
             "A transmissão de manuscritos, cópias e traduções foi decisiva para que parte de sua obra sobrevivesse."
           ]
+        },
+        {
+          "titulo": "Entre matemática e tradição biográfica",
+          "paragrafos": [
+            "Arquimedes é lembrado por trabalhos matemáticos e investigações de equilíbrio e geometria. Histórias célebres atribuídas à sua vida devem ser analisadas separadamente das demonstrações e tratados que fundamentam sua contribuição intelectual."
+          ]
         }
       ],
       "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Arquimedes de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "socrates",
@@ -664,10 +832,30 @@
           "paragrafos": [
             "Sócrates foi julgado e condenado em Atenas. Seu julgamento e morte influenciaram debates posteriores sobre educação, pensamento crítico e vida política."
           ]
+        },
+        {
+          "titulo": "O problema das fontes socráticas",
+          "paragrafos": [
+            "Sócrates não deixou obras escritas conhecidas. Parte essencial do que se estuda sobre suas ideias vem de autores como Platão e Xenofonte, cujas representações possuem propósitos e estilos distintos."
+          ]
         }
       ],
       "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Sócrates de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "platao",
@@ -731,10 +919,30 @@
           "paragrafos": [
             "Obras como A República exploram questões sobre justiça, educação e organização política. Outros diálogos investigam linguagem, realidade e os limites do conhecimento."
           ]
+        },
+        {
+          "titulo": "Diálogo como forma filosófica",
+          "paragrafos": [
+            "Muitos textos de Platão apresentam argumentos em diálogos, não como exposição direta de uma doutrina. Identificar a posição de cada personagem e as tensões entre os argumentos é parte indispensável da leitura."
+          ]
         }
       ],
       "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Platão de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "aristoteles",
@@ -802,10 +1010,30 @@
           "paragrafos": [
             "Textos aristotélicos foram preservados e comentados em diferentes tradições. Na história da ciência, algumas de suas explicações foram debatidas e revistas."
           ]
+        },
+        {
+          "titulo": "Investigação em diferentes campos",
+          "paragrafos": [
+            "As obras associadas a Aristóteles abordam lógica, ética, política, biologia e outras áreas. Seu legado não deve ser reduzido a uma única tese, pois métodos e questões variam entre esses campos."
+          ]
         }
       ],
       "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Aristóteles de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "hipatia",
@@ -857,10 +1085,30 @@
           "paragrafos": [
             "O assassinato de Hipátia em 415 tornou-se um episódio amplamente reinterpretado. É importante separar as evidências antigas das representações literárias e políticas posteriores."
           ]
+        },
+        {
+          "titulo": "História e construção de memória",
+          "paragrafos": [
+            "A trajetória de Hipátia é conhecida por testemunhos de contextos e perspectivas diferentes. Seu assassinato ocorreu em um cenário de tensões políticas e religiosas; explicações que o atribuem a uma causa única simplificam a documentação."
+          ]
         }
       ],
       "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Hipátia de Alexandria de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "imperio-bizantino",
@@ -912,10 +1160,30 @@
           "paragrafos": [
             "A conquista otomana de 1453 encerrou o governo imperial em Constantinopla, mas tradições culturais, jurídicas e religiosas continuaram a circular."
           ]
+        },
+        {
+          "titulo": "Continuidade romana e mudanças",
+          "paragrafos": [
+            "O chamado Império Bizantino preservou instituições e tradições romanas enquanto desenvolveu formas políticas e culturais próprias. A expressão 'bizantino' é posterior e exige cuidado para não apagar como seus habitantes compreendiam sua identidade."
+          ]
         }
       ],
       "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Império Bizantino de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "humanismo",
@@ -975,10 +1243,30 @@
           "paragrafos": [
             "Os estudos humanistas dialogaram com a produção artística e intelectual renascentista. É importante não tratar os dois termos como sinônimos perfeitos."
           ]
+        },
+        {
+          "titulo": "Leitura crítica dos textos",
+          "paragrafos": [
+            "Humanistas se dedicaram à comparação, edição e interpretação de textos antigos. Essa prática intelectual envolvia escolhas sobre manuscritos, tradução e linguagem, mostrando que recuperar uma obra também significa interpretá-la."
+          ]
         }
       ],
       "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Humanismo Renascentista de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "imprensa-gutenberg",
@@ -1038,10 +1326,30 @@
           "paragrafos": [
             "Livros impressos tiveram papel relevante na difusão de debates religiosos, científicos e humanistas, mas as transformações ocorreram de modo gradual."
           ]
+        },
+        {
+          "titulo": "Tecnologia e condições sociais",
+          "paragrafos": [
+            "A impressão com tipos móveis na Europa do século XV ampliou possibilidades de reprodução textual, mas sua difusão dependeu de oficinas, leitores, comércio e instituições. Tecnologias de impressão já existiam anteriormente em outras regiões do mundo."
+          ]
         }
       ],
       "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Imprensa de Tipos Móveis de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "leonardo-da-vinci",
@@ -1101,10 +1409,30 @@
           "paragrafos": [
             "A obra de Leonardo mostra como desenho, observação e produção artística podiam se relacionar com o estudo do mundo natural."
           ]
+        },
+        {
+          "titulo": "Cadernos, projetos e realizações",
+          "paragrafos": [
+            "Os registros de Leonardo reúnem observações, desenhos e propostas técnicas de naturezas diversas. Nem todo projeto desenhado foi construído, e uma análise histórica precisa diferenciar concepção, experimentação e realização."
+          ]
         }
       ],
       "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Leonardo da Vinci de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "revolucao-cientifica",
@@ -1164,10 +1492,30 @@
           "paragrafos": [
             "A imprensa, as correspondências e instituições de estudo ajudaram a divulgar e questionar resultados. A ciência se desenvolveu por cooperação e controvérsia."
           ]
+        },
+        {
+          "titulo": "Uma transformação não linear",
+          "paragrafos": [
+            "A expressão 'Revolução Científica' reúne mudanças de métodos, instrumentos e explicações da natureza, mas os processos ocorreram em ritmos distintos. Muitos pesquisadores destacam continuidades com tradições intelectuais anteriores."
+          ]
         }
       ],
       "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
-    }
+    },
+    "perguntas": [
+      {
+        "enunciado": "Qual é uma boa estratégia para estudar Revolução Científica de maneira crítica?",
+        "opcoes": [
+          "Consultar as evidências e distinguir interpretações de fatos documentados.",
+          "Memorizar apenas uma data e ignorar o contexto.",
+          "Tratar toda narrativa histórica como unanimidade."
+        ],
+        "correta": 0,
+        "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
+      }
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "povos-originarios",
@@ -1191,6 +1539,10 @@
       {
         "titulo": "Arquivo Nacional — portal institucional",
         "url": "https://www.gov.br/arquivonacional/pt-br"
+      },
+      {
+        "titulo": "IBGE — O Brasil Indígena (dados e diversidade contemporânea)",
+        "url": "https://www.ibge.gov.br/brasil-indigena/"
       }
     ],
     "relacoes": [
@@ -1219,6 +1571,12 @@
           "paragrafos": [
             "Práticas agrícolas, conhecimentos botânicos, técnicas de manejo e tradições orais atravessaram gerações. Os povos indígenas são contemporâneos: suas histórias não terminaram com o início da colonização."
           ]
+        },
+        {
+          "titulo": "Fontes e protagonismo indígena",
+          "paragrafos": [
+            "A arqueologia, a linguística, as tradições orais e as pesquisas conduzidas por intelectuais indígenas ajudam a reconstruir histórias diversas. Relatos coloniais devem ser lidos criticamente, pois frequentemente refletem interesses e categorias dos colonizadores."
+          ]
         }
       ],
       "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
@@ -1234,7 +1592,9 @@
         "correta": 1,
         "explicacao": "Havia grande diversidade de povos, línguas, práticas e organizações sociais muito antes da colonização."
       }
-    ]
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "colonizacao-portuguesa",
@@ -1258,6 +1618,10 @@
       {
         "titulo": "Arquivo Nacional — portal institucional",
         "url": "https://www.gov.br/arquivonacional/pt-br"
+      },
+      {
+        "titulo": "Arquivo Nacional — Sobre o acervo (documentação colonial)",
+        "url": "https://www.gov.br/arquivonacional/pt-br/acesso-a-informacao/institucional/acervo"
       }
     ],
     "relacoes": [
@@ -1290,6 +1654,12 @@
           "paragrafos": [
             "Fugas, quilombos, revoltas, negociações e preservação de práticas culturais fizeram parte da história colonial. Estudar o período exige observar as experiências dos grupos submetidos à dominação."
           ]
+        },
+        {
+          "titulo": "Documentos coloniais e vozes silenciadas",
+          "paragrafos": [
+            "Registros administrativos e judiciais permitem estudar práticas de exploração e controle, mas não representam igualmente todos os grupos sociais. Historiadores também buscam indícios de experiências indígenas, africanas e afro-brasileiras nesses documentos."
+          ]
         }
       ],
       "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
@@ -1305,7 +1675,9 @@
         "correta": 2,
         "explicacao": "A história colonial inclui diferentes formas de resistência, negociação e organização social."
       }
-    ]
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "independencia-brasil",
@@ -1329,6 +1701,10 @@
       {
         "titulo": "Arquivo Nacional — portal institucional",
         "url": "https://www.gov.br/arquivonacional/pt-br"
+      },
+      {
+        "titulo": "Arquivo Nacional — Documentos do Brasil Oitocentista",
+        "url": "https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/documentos"
       }
     ],
     "relacoes": [
@@ -1361,6 +1737,12 @@
           "paragrafos": [
             "A independência não aboliu a escravidão nem eliminou hierarquias sociais. A construção do novo Estado imperial continuou marcada por conflitos e negociações."
           ]
+        },
+        {
+          "titulo": "Independência e desigualdade",
+          "paragrafos": [
+            "A formação do Estado independente não significou o fim da escravidão nem o acesso universal à cidadania. A participação política e os projetos de futuro variaram entre elites, grupos populares e diferentes províncias."
+          ]
         }
       ],
       "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
@@ -1376,7 +1758,9 @@
         "correta": 0,
         "explicacao": "A separação foi um processo com conflitos regionais e não acabou com a escravidão."
       }
-    ]
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "proclamacao-republica",
@@ -1400,6 +1784,10 @@
       {
         "titulo": "Arquivo Nacional — portal institucional",
         "url": "https://www.gov.br/arquivonacional/pt-br"
+      },
+      {
+        "titulo": "Arquivo Nacional — Sobre o acervo (documentos republicanos)",
+        "url": "https://www.gov.br/arquivonacional/pt-br/acesso-a-informacao/institucional/acervo"
       }
     ],
     "relacoes": [
@@ -1432,6 +1820,12 @@
           "paragrafos": [
             "A Constituição de 1891 instituiu um novo arranjo republicano e federativo. A cidadania política permaneceu restrita para grandes parcelas da população."
           ]
+        },
+        {
+          "titulo": "Cidadania na Primeira República",
+          "paragrafos": [
+            "A mudança de regime não trouxe participação eleitoral igualitária. A análise do período precisa considerar restrições políticas e o modo como estruturas de poder locais e nacionais influenciaram a nova ordem republicana."
+          ]
         }
       ],
       "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
@@ -1447,7 +1841,9 @@
         "correta": 1,
         "explicacao": "A mudança de regime foi protagonizada por setores militares e não representou participação política ampla."
       }
-    ]
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "ditadura-militar-brasil",
@@ -1471,6 +1867,10 @@
       {
         "titulo": "Arquivo Nacional — portal institucional",
         "url": "https://www.gov.br/arquivonacional/pt-br"
+      },
+      {
+        "titulo": "Arquivo Nacional — Acervos sobre o Regime Militar (1964–1985)",
+        "url": "https://www.gov.br/arquivonacional/pt-br/servicos/acervos/copy_of_acervos-mais-consultados/acervos-sobre-o-regime-militar-1964-1985"
       }
     ],
     "relacoes": [
@@ -1503,6 +1903,12 @@
           "paragrafos": [
             "A transição para o governo civil em 1985 resultou de um processo gradual, marcado por mobilização social e negociações. A Constituição de 1988 tornou-se referência da redemocratização."
           ]
+        },
+        {
+          "titulo": "Documentos da repressão e testemunhos",
+          "paragrafos": [
+            "Relatórios oficiais, arquivos de órgãos de informação e depoimentos de vítimas são fontes importantes para investigar o período. É necessário considerar o contexto de produção de cada documento e confrontar versões quando houver divergências."
+          ]
         }
       ],
       "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
@@ -1518,7 +1924,9 @@
         "correta": 1,
         "explicacao": "O regime restringiu liberdades e promoveu perseguições; o período também teve resistência social."
       }
-    ]
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
     "id": "constituicao-1988",
@@ -1542,6 +1950,10 @@
       {
         "titulo": "Arquivo Nacional — portal institucional",
         "url": "https://www.gov.br/arquivonacional/pt-br"
+      },
+      {
+        "titulo": "Arquivo Nacional — Sobre o acervo (constituições brasileiras)",
+        "url": "https://www.gov.br/arquivonacional/pt-br/acesso-a-informacao/institucional/acervo"
       }
     ],
     "relacoes": [
@@ -1570,6 +1982,12 @@
           "paragrafos": [
             "A efetivação dos direitos constitucionais envolve disputas, políticas públicas e decisões judiciais. O documento também passou por emendas ao longo do tempo."
           ]
+        },
+        {
+          "titulo": "Direitos previstos e direitos realizados",
+          "paragrafos": [
+            "A Constituição estabelece garantias, mas sua efetivação depende de políticas públicas, instituições e disputas sociais. Estudar o texto constitucional exige distinguir o conteúdo normativo de sua aplicação histórica."
+          ]
         }
       ],
       "conclusao": "Explore outros períodos da História do Brasil e compare suas transformações na Teia do Tempo."
@@ -1585,6 +2003,8 @@
         "correta": 0,
         "explicacao": "A Constituição de 1988 é um marco da redemocratização e da ampliação de garantias constitucionais."
       }
-    ]
+    ],
+    "estadoEditorial": "em-revisao",
+    "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   }
 ]
