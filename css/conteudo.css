@@ -6,3 +6,21 @@
 .capitulo-navegacao{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin:18px 0}.capitulo-navegacao button{padding:11px 15px;border:1px solid #c7b38e;background:#fffdf8;border-radius:8px;color:#234b66;font:600 12px Montserrat,sans-serif}.capitulo-navegacao button:disabled{opacity:.4;cursor:not-allowed}.capitulo-navegacao span{font-size:12px;font-weight:700;color:#715c40}.modo-leitura{display:flex;align-items:center;gap:8px;font-size:12px;margin:12px 0 30px}.artigo-sumario a[aria-current=location]{font-weight:700;color:#a34d37}.artigo-secao[hidden]{display:none}.artigo-secao{min-height:180px}
 
 .plano-estudo{border:1px solid #ddceb1;background:#fffdf7;border-radius:12px;padding:24px;margin:22px 0 30px}.plano-estudo-topo{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}.plano-estudo-topo h2{font:26px "Playfair Display",Georgia,serif;margin:4px 0 12px}.plano-estudo-topo span{font-size:11px;color:#765d38;font-weight:700}.plano-estudo>p{font-size:12px;line-height:1.75;color:#655f54}.plano-estudo ol{margin:16px 0 0;padding-left:24px;display:grid;gap:13px}.plano-estudo li{padding-left:4px}.plano-estudo li strong{font-size:13px;color:#263f4c}.plano-estudo li p{font-size:12px;line-height:1.65;margin:5px 0;color:#67635b}
+
+
+/* Leitura longa: contraste, ritmo e conforto */
+.leitura-hero{padding:clamp(60px,7vw,95px) 0}
+.leitura-hero h1{letter-spacing:-.035em}
+.ficha-resumo{line-height:1.95;color:#515e5a}
+.ficha-grid{grid-template-columns:minmax(0,1fr) 300px;gap:clamp(26px,5vw,72px);padding-top:70px}
+.ficha-artigo{max-width:760px}
+.ficha-artigo #texto p{font-size:16px;line-height:1.95;max-width:72ch;margin-bottom:1.55em;color:#38413d}
+.ficha-artigo h2,.artigo-secao h2{letter-spacing:-.025em;line-height:1.28}
+.artigo-secao{padding-top:12px;margin-bottom:46px}
+.artigo-abertura{border-radius:0 14px 14px 0;padding:27px 30px;background:#f8f0e2}
+.artigo-abertura p{font-size:19px;line-height:1.8}
+.artigo-sumario{border-radius:15px;padding:26px;background:#fffdf8}
+.ficha-lateral{border-radius:17px;box-shadow:0 12px 35px #45351c0b;top:24px}
+.estudo-barra button{border-radius:22px}
+.progresso-trilho{height:6px}
+@media(max-width:750px){.ficha-grid{grid-template-columns:1fr;gap:25px;padding-top:42px}.ficha-artigo #texto p{font-size:15px;line-height:1.9}.ficha-lateral{position:static}.artigo-abertura{padding:22px}}
