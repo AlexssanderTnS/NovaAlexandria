@@ -3,54 +3,666 @@
     "id": "biblioteca-alexandria",
     "titulo": "Biblioteca de Alexandria",
     "categoria": "História",
-    "periodo": "Antiguidade",
-    "regiao": "Egito",
-    "resumo": "O projeto intelectual de Alexandria e seu papel na circulação do conhecimento no mundo helenístico.",
-    "imagem": null
+    "inicio": -300,
+    "fim": -1,
+    "periodo": "Séculos III–I a.C.",
+    "regiao": "Alexandria, Egito",
+    "resumo": "A Biblioteca de Alexandria tornou-se símbolo da preservação e circulação do saber no período helenístico.",
+    "conteudo": [
+      "A biblioteca estava associada ao ambiente intelectual de Alexandria, importante cidade do Egito ptolemaico. Reunia e organizava escritos de diferentes tradições, embora o tamanho exato de seu acervo permaneça incerto.",
+      "Seu desaparecimento não pode ser explicado com segurança por um único incêndio. A história da instituição permite investigar como conhecimentos são registrados, transmitidos e também perdidos."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Biblioteca de Alexandria",
+        "url": "https://www.britannica.com/search?query=Biblioteca%20de%20Alexandria"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "euclides",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "alexandre-magno",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "museu-alexandria",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "hipatia",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "filosofia-grega",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
   },
   {
     "id": "alexandre-magno",
     "titulo": "Alexandre, o Grande",
     "categoria": "História",
+    "inicio": -356,
+    "fim": -323,
     "periodo": "Século IV a.C.",
     "regiao": "Macedônia e Ásia",
-    "resumo": "As campanhas de Alexandre e as transformações políticas e culturais associadas à expansão macedônica.",
-    "imagem": null
+    "resumo": "As campanhas macedônicas transformaram as relações políticas e culturais do Mediterrâneo oriental e da Ásia.",
+    "conteudo": [
+      "Alexandre expandiu o domínio macedônico até áreas do Egito e da Ásia, derrubando o Império Aquemênida. Sua conquista contribuiu para a circulação de pessoas, línguas e práticas políticas.",
+      "A cidade de Alexandria, no Egito, foi fundada durante sua campanha e mais tarde se consolidou como importante centro intelectual do mundo helenístico."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Alexandre, o Grande",
+        "url": "https://www.britannica.com/search?query=Alexandre%2C%20o%20Grande"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "biblioteca-alexandria",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "helenismo",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "aristoteles",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
   },
   {
     "id": "euclides",
     "titulo": "Euclides e a Geometria",
     "categoria": "Ciência",
+    "inicio": -330,
+    "fim": -270,
     "periodo": "Século III a.C.",
-    "regiao": "Alexandria",
-    "resumo": "A tradição matemática ligada a Euclides e a importância dos Elementos na história da geometria.",
-    "imagem": null
+    "regiao": "Alexandria, Egito",
+    "resumo": "A obra Elementos organizou definições, postulados e demonstrações que influenciaram a matemática por séculos.",
+    "conteudo": [
+      "Pouco se sabe sobre a biografia de Euclides. Seu nome está associado aos Elementos, uma organização sistemática de resultados matemáticos.",
+      "A influência do método demonstrativo ajudou a moldar diferentes tradições de ensino e investigação científica."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Euclides e a Geometria",
+        "url": "https://www.britannica.com/search?query=Euclides%20e%20a%20Geometria"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "biblioteca-alexandria",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "museu-alexandria",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "arquimedes",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "filosofia-grega",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
   },
   {
     "id": "queda-constantinopla",
     "titulo": "Queda de Constantinopla",
     "categoria": "História",
+    "inicio": 1453,
+    "fim": 1453,
     "periodo": "1453",
     "regiao": "Constantinopla",
-    "resumo": "O fim do Império Bizantino e as mudanças políticas ligadas à conquista otomana.",
-    "imagem": null
+    "resumo": "A conquista otomana marcou o fim do Império Bizantino e reconfigurou o poder na região.",
+    "conteudo": [
+      "Em 1453, tropas lideradas por Mehmed II conquistaram Constantinopla. O acontecimento encerrou a longa história do Império Bizantino.",
+      "O evento integrou processos políticos e militares mais amplos. Sua relação com o Renascimento exige cuidado: não é correto atribuir a ele, isoladamente, o início desse movimento."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Queda de Constantinopla",
+        "url": "https://www.britannica.com/search?query=Queda%20de%20Constantinopla"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "imperio-bizantino",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "renascimento",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "imprensa-gutenberg",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
   },
   {
     "id": "renascimento",
     "titulo": "Renascimento",
     "categoria": "Arte",
+    "inicio": 1300,
+    "fim": 1600,
     "periodo": "Séculos XIV–XVI",
     "regiao": "Europa",
-    "resumo": "Transformações artísticas e intelectuais que marcaram diferentes regiões da Europa.",
-    "imagem": null
+    "resumo": "Um conjunto de transformações na arte, nas letras e nos estudos sobre a Antiguidade.",
+    "conteudo": [
+      "O Renascimento não ocorreu de modo uniforme. Em diferentes centros europeus, artistas e estudiosos retomaram e reinterpretaram tradições clássicas.",
+      "Mudanças nos meios de circulação de textos, no mecenato e nas práticas artísticas contribuíram para sua difusão."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Renascimento",
+        "url": "https://www.britannica.com/search?query=Renascimento"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "humanismo",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "imprensa-gutenberg",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "leonardo-da-vinci",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "queda-constantinopla",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "revolucao-cientifica",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
   },
   {
     "id": "filosofia-grega",
     "titulo": "Filosofia Grega",
     "categoria": "Filosofia",
-    "periodo": "Antiguidade",
+    "inicio": -600,
+    "fim": -100,
+    "periodo": "Séculos VI–I a.C.",
+    "regiao": "Mediterrâneo",
+    "resumo": "Uma tradição diversa de reflexão sobre natureza, ética, política e conhecimento.",
+    "conteudo": [
+      "A filosofia desenvolvida em diferentes cidades gregas reúne escolas e perspectivas que frequentemente discordavam entre si.",
+      "Seu legado alcançou a lógica, a ética, a política e debates sobre métodos de investigação."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Filosofia Grega",
+        "url": "https://www.britannica.com/search?query=Filosofia%20Grega"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "socrates",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "platao",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "aristoteles",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "euclides",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "biblioteca-alexandria",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
+  },
+  {
+    "id": "helenismo",
+    "titulo": "Mundo Helenístico",
+    "categoria": "História",
+    "inicio": -323,
+    "fim": -30,
+    "periodo": "323–30 a.C.",
+    "regiao": "Mediterrâneo oriental",
+    "resumo": "Um período de intercâmbios culturais e novas configurações políticas após Alexandre.",
+    "conteudo": [
+      "Após a morte de Alexandre, diferentes reinos governados por seus sucessores se formaram em partes de seus antigos domínios.",
+      "Alexandria floresceu como centro de intercâmbio intelectual, artístico e comercial nesse contexto."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Mundo Helenístico",
+        "url": "https://www.britannica.com/search?query=Mundo%20Helen%C3%ADstico"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "alexandre-magno",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "museu-alexandria",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "biblioteca-alexandria",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "arquimedes",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
+  },
+  {
+    "id": "museu-alexandria",
+    "titulo": "Museu de Alexandria",
+    "categoria": "Ciência",
+    "inicio": -300,
+    "fim": -30,
+    "periodo": "Período helenístico",
+    "regiao": "Alexandria, Egito",
+    "resumo": "O Mouseion reuniu atividades de estudo e investigação associadas ao ambiente intelectual alexandrino.",
+    "conteudo": [
+      "O Mouseion era uma instituição ligada à vida erudita da Alexandria ptolemaica, tradicionalmente associada à Biblioteca.",
+      "Sua história exemplifica como patronagem e instituições podem favorecer a produção de conhecimentos."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Museu de Alexandria",
+        "url": "https://www.britannica.com/search?query=Museu%20de%20Alexandria"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "biblioteca-alexandria",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "euclides",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "helenismo",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "arquimedes",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
+  },
+  {
+    "id": "arquimedes",
+    "titulo": "Arquimedes",
+    "categoria": "Ciência",
+    "inicio": -287,
+    "fim": -212,
+    "periodo": "Século III a.C.",
+    "regiao": "Siracusa",
+    "resumo": "Matemático e inventor antigo conhecido por contribuições à geometria e à mecânica.",
+    "conteudo": [
+      "Arquimedes trabalhou em problemas de geometria, equilíbrio e hidrostática. Parte de sua obra chegou aos nossos dias por tradição manuscrita.",
+      "Sua trajetória ajuda a explorar a relação entre matemática teórica e aplicações práticas na Antiguidade."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Arquimedes",
+        "url": "https://www.britannica.com/search?query=Arquimedes"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "euclides",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "helenismo",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "museu-alexandria",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
+  },
+  {
+    "id": "socrates",
+    "titulo": "Sócrates",
+    "categoria": "Filosofia",
+    "inicio": -469,
+    "fim": -399,
+    "periodo": "Século V a.C.",
+    "regiao": "Atenas",
+    "resumo": "Figura central da filosofia ateniense, conhecida principalmente por relatos de seus contemporâneos e discípulos.",
+    "conteudo": [
+      "Sócrates não deixou obras escritas conhecidas. Muito de sua imagem histórica depende de autores como Platão e Xenofonte.",
+      "O diálogo e o exame crítico das ideias tornaram-se marcas de sua recepção filosófica."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Sócrates",
+        "url": "https://www.britannica.com/search?query=S%C3%B3crates"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "platao",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "filosofia-grega",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
+  },
+  {
+    "id": "platao",
+    "titulo": "Platão",
+    "categoria": "Filosofia",
+    "inicio": -428,
+    "fim": -348,
+    "periodo": "Séculos V–IV a.C.",
+    "regiao": "Atenas",
+    "resumo": "Filósofo cujos diálogos discutem conhecimento, política, educação e realidade.",
+    "conteudo": [
+      "Platão fundou a Academia em Atenas e escreveu diálogos que continuam a ser estudados.",
+      "Seu pensamento estabeleceu debates importantes para a história da filosofia e foi objeto de interpretações diversas."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Platão",
+        "url": "https://www.britannica.com/search?query=Plat%C3%A3o"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "socrates",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "aristoteles",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "filosofia-grega",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
+  },
+  {
+    "id": "aristoteles",
+    "titulo": "Aristóteles",
+    "categoria": "Filosofia",
+    "inicio": -384,
+    "fim": -322,
+    "periodo": "Século IV a.C.",
     "regiao": "Grécia",
-    "resumo": "Perguntas e ideias que influenciaram debates sobre conhecimento, ética e natureza.",
-    "imagem": null
+    "resumo": "Filósofo que escreveu sobre lógica, biologia, ética, política e diversas áreas do saber.",
+    "conteudo": [
+      "Aristóteles estudou na Academia de Platão e mais tarde ensinou no Liceu.",
+      "Sua produção influenciou tradições filosóficas e científicas de diferentes épocas."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Aristóteles",
+        "url": "https://www.britannica.com/search?query=Arist%C3%B3teles"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "platao",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "alexandre-magno",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "filosofia-grega",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "revolucao-cientifica",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
+  },
+  {
+    "id": "hipatia",
+    "titulo": "Hipátia de Alexandria",
+    "categoria": "Filosofia",
+    "inicio": 350,
+    "fim": 415,
+    "periodo": "Séculos IV–V",
+    "regiao": "Alexandria, Egito",
+    "resumo": "Filósofa e matemática associada à tradição intelectual da Alexandria tardia.",
+    "conteudo": [
+      "Hipátia ensinou filosofia e matemática na Alexandria da Antiguidade tardia. Sua vida é conhecida principalmente por registros de outros autores.",
+      "A violência que resultou em sua morte ocorreu em um contexto complexo de disputas políticas e religiosas."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Hipátia de Alexandria",
+        "url": "https://www.britannica.com/search?query=Hip%C3%A1tia%20de%20Alexandria"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "biblioteca-alexandria",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "imperio-bizantino",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
+  },
+  {
+    "id": "imperio-bizantino",
+    "titulo": "Império Bizantino",
+    "categoria": "História",
+    "inicio": 330,
+    "fim": 1453,
+    "periodo": "Séculos IV–XV",
+    "regiao": "Mediterrâneo oriental",
+    "resumo": "A continuidade do Império Romano no Oriente, com capital em Constantinopla.",
+    "conteudo": [
+      "O chamado Império Bizantino preservou instituições romanas e desenvolveu culturas e práticas próprias ao longo de mais de mil anos.",
+      "Constantinopla teve importante papel político, comercial e religioso até sua conquista em 1453."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Império Bizantino",
+        "url": "https://www.britannica.com/search?query=Imp%C3%A9rio%20Bizantino"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "hipatia",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "queda-constantinopla",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
+  },
+  {
+    "id": "humanismo",
+    "titulo": "Humanismo Renascentista",
+    "categoria": "Filosofia",
+    "inicio": 1350,
+    "fim": 1600,
+    "periodo": "Séculos XIV–XVI",
+    "regiao": "Europa",
+    "resumo": "Movimento de estudo das línguas, textos e tradições da Antiguidade clássica.",
+    "conteudo": [
+      "Humanistas dedicaram-se ao estudo crítico de textos antigos e à educação baseada em disciplinas como retórica, história e gramática.",
+      "Suas práticas contribuíram para mudanças na circulação e interpretação dos escritos clássicos."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Humanismo Renascentista",
+        "url": "https://www.britannica.com/search?query=Humanismo%20Renascentista"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "renascimento",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "imprensa-gutenberg",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "leonardo-da-vinci",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
+  },
+  {
+    "id": "imprensa-gutenberg",
+    "titulo": "Imprensa de Tipos Móveis",
+    "categoria": "Tecnologia",
+    "inicio": 1440,
+    "fim": 1500,
+    "periodo": "Século XV",
+    "regiao": "Europa",
+    "resumo": "A impressão com tipos móveis metálicos acelerou a reprodução de textos na Europa.",
+    "conteudo": [
+      "Na Europa do século XV, a técnica de impressão associada a Johannes Gutenberg ampliou a capacidade de produzir livros em série.",
+      "A disseminação de impressos foi desigual, mas teve efeitos duradouros na circulação de informações."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Imprensa de Tipos Móveis",
+        "url": "https://www.britannica.com/search?query=Imprensa%20de%20Tipos%20M%C3%B3veis"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "renascimento",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "humanismo",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "queda-constantinopla",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "revolucao-cientifica",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
+  },
+  {
+    "id": "leonardo-da-vinci",
+    "titulo": "Leonardo da Vinci",
+    "categoria": "Arte",
+    "inicio": 1452,
+    "fim": 1519,
+    "periodo": "Séculos XV–XVI",
+    "regiao": "Itália",
+    "resumo": "Artista e investigador conhecido por pinturas, desenhos anatômicos e estudos técnicos.",
+    "conteudo": [
+      "Leonardo atuou em campos variados, incluindo pintura, desenho, anatomia e engenharia.",
+      "Seus cadernos mostram curiosidade pelo estudo do mundo natural, sem que isso signifique que todas as ideias registradas tenham sido construídas."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Leonardo da Vinci",
+        "url": "https://www.britannica.com/search?query=Leonardo%20da%20Vinci"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "renascimento",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "humanismo",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "revolucao-cientifica",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
+  },
+  {
+    "id": "revolucao-cientifica",
+    "titulo": "Revolução Científica",
+    "categoria": "Ciência",
+    "inicio": 1543,
+    "fim": 1700,
+    "periodo": "Séculos XVI–XVII",
+    "regiao": "Europa",
+    "resumo": "Mudanças nas práticas de investigação natural e nos modelos explicativos do mundo.",
+    "conteudo": [
+      "Entre os séculos XVI e XVII, diferentes estudiosos propuseram novas explicações sobre movimento, astronomia e natureza.",
+      "O processo reuniu debates, continuidades e rupturas; não foi uma transformação instantânea nem exclusiva de uma pessoa."
+    ],
+    "imagem": null,
+    "fontes": [
+      {
+        "titulo": "Encyclopaedia Britannica — pesquisa sobre Revolução Científica",
+        "url": "https://www.britannica.com/search?query=Revolu%C3%A7%C3%A3o%20Cient%C3%ADfica"
+      }
+    ],
+    "relacoes": [
+      {
+        "id": "renascimento",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "imprensa-gutenberg",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "leonardo-da-vinci",
+        "tipo": "Conexão histórica ou temática"
+      },
+      {
+        "id": "aristoteles",
+        "tipo": "Conexão histórica ou temática"
+      }
+    ]
   }
 ]
