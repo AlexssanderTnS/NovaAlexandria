@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "biblioteca-alexandria",
+    "titulo": "Biblioteca de Alexandria",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Alexandria sob os Ptolomeus",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: alexandria sob os ptolomeus?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "O Mouseion e o projeto bibliotecário",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: o mouseion e o projeto bibliotecário?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Coleção, catalogação e filologia",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: coleção, catalogação e filologia?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Estudiosos e circulação de manuscritos",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: estudiosos e circulação de manuscritos?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Fontes antigas e suas contradições",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: fontes antigas e suas contradições?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Destruição, declínio e hipóteses",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: destruição, declínio e hipóteses?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Bibliotecas e memória cultural",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: bibliotecas e memória cultural?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Recepção moderna do mito de Alexandria",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: recepção moderna do mito de alexandria?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "alexandre-magno",
+    "titulo": "Alexandre, o Grande",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Macedônia e o mundo grego",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: macedônia e o mundo grego?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Filipe II e a formação militar",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: filipe ii e a formação militar?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Campanhas contra o Império Aquemênida",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: campanhas contra o império aquemênida?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Egito e fundação de Alexandria",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: egito e fundação de alexandria?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Administração e relações com elites locais",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: administração e relações com elites locais?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Morte e disputas sucessórias",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: morte e disputas sucessórias?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Reinos helenísticos e circulação cultural",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: reinos helenísticos e circulação cultural?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Historiografia das conquistas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: historiografia das conquistas?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "euclides",
+    "titulo": "Euclides e a Geometria",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Alexandria e ensino matemático",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: alexandria e ensino matemático?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Problemas de autoria e datação",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: problemas de autoria e datação?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Estrutura dos Elementos",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: estrutura dos elementos?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Postulados, definições e demonstrações",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: postulados, definições e demonstrações?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Geometria e teoria dos números",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: geometria e teoria dos números?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Traduções e transmissão manuscrita",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: traduções e transmissão manuscrita?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Geometrias não euclidianas e releituras",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: geometrias não euclidianas e releituras?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Debates sobre rigor e método",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: debates sobre rigor e método?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "queda-constantinopla",
+    "titulo": "Queda de Constantinopla",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Constantinopla antes de 1453",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: constantinopla antes de 1453?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Crise política e territorial bizantina",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: crise política e territorial bizantina?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Ascensão e estratégias otomanas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: ascensão e estratégias otomanas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Cerco e tomada da cidade",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: cerco e tomada da cidade?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Populações e transformações urbanas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: populações e transformações urbanas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Comércio e diplomacia mediterrânea",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: comércio e diplomacia mediterrânea?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Consequências religiosas e políticas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: consequências religiosas e políticas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Debates sobre a periodização histórica",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: debates sobre a periodização histórica?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "renascimento",
+    "titulo": "Renascimento",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Problemas de periodização",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: problemas de periodização?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Cidades italianas e mecenato",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: cidades italianas e mecenato?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Humanismo e estudos clássicos",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: humanismo e estudos clássicos?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Artes, oficinas e técnicas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: artes, oficinas e técnicas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Mulheres e grupos marginalizados",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: mulheres e grupos marginalizados?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Imprensa e circulação de ideias",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: imprensa e circulação de ideias?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Renascimentos além da Itália",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: renascimentos além da itália?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Críticas à ideia de ruptura medieval",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: críticas à ideia de ruptura medieval?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "filosofia-grega",
+    "titulo": "Filosofia Grega",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Contextos sociais da pólis",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: contextos sociais da pólis?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Pré-socráticos e explicações da natureza",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: pré-socráticos e explicações da natureza?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Sofistas e educação",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: sofistas e educação?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Sócrates e a ética",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: sócrates e a ética?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Platão e a teoria do conhecimento",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: platão e a teoria do conhecimento?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Aristóteles e a investigação",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: aristóteles e a investigação?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Escolas helenísticas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: escolas helenísticas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Fontes, traduções e recepção",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: fontes, traduções e recepção?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "helenismo",
+    "titulo": "Mundo Helenístico",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "A sucessão de Alexandre",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: a sucessão de alexandre?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Reinos e dinastias",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: reinos e dinastias?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Cidades, comércio e mobilidade",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: cidades, comércio e mobilidade?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Línguas e práticas culturais",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: línguas e práticas culturais?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Alexandria como centro intelectual",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: alexandria como centro intelectual?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Filosofia, ciência e religião",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: filosofia, ciência e religião?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Relações com Roma",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: relações com roma?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Historiografia da helenização",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: historiografia da helenização?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "museu-alexandria",
+    "titulo": "Museu de Alexandria",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Origem do Mouseion",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: origem do mouseion?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Patrocínio ptolomaico",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: patrocínio ptolomaico?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Comunidades de estudiosos",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: comunidades de estudiosos?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Práticas de pesquisa e ensino",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: práticas de pesquisa e ensino?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Relações com a Biblioteca",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: relações com a biblioteca?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Fontes textuais e arqueologia",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: fontes textuais e arqueologia?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Transformações institucionais",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: transformações institucionais?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Limites das reconstruções modernas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: limites das reconstruções modernas?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "arquimedes",
+    "titulo": "Arquimedes",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Siracusa e Mediterrâneo antigo",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: siracusa e mediterrâneo antigo?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Fontes biográficas e lendas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: fontes biográficas e lendas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Geometria de áreas e volumes",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: geometria de áreas e volumes?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Mecânica e equilíbrio",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: mecânica e equilíbrio?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Hidrostática e tradição textual",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: hidrostática e tradição textual?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Instrumentos e máquinas atribuídas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: instrumentos e máquinas atribuídas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Manuscritos e palimpsestos",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: manuscritos e palimpsestos?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Recepção da obra matemática",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: recepção da obra matemática?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "socrates",
+    "titulo": "Sócrates",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Atenas no século V a.C.",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: atenas no século v a.c.?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "O problema socrático",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: o problema socrático?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Diálogo e exame das crenças",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: diálogo e exame das crenças?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Ética e vida pública",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: ética e vida pública?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Sócrates em Platão",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: sócrates em platão?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Sócrates em Xenofonte e Aristófanes",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: sócrates em xenofonte e aristófanes?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Julgamento e morte",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: julgamento e morte?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Recepção e disputas interpretativas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: recepção e disputas interpretativas?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "platao",
+    "titulo": "Platão",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Atenas e trajetória de Platão",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: atenas e trajetória de platão?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Diálogos e problemas de cronologia",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: diálogos e problemas de cronologia?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Sócrates como personagem",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: sócrates como personagem?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Conhecimento e teoria das formas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: conhecimento e teoria das formas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Ética e educação",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: ética e educação?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Política e cidade justa",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: política e cidade justa?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Academia e legado institucional",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: academia e legado institucional?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Interpretações e críticas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: interpretações e críticas?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "aristoteles",
+    "titulo": "Aristóteles",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Vida e contexto macedônico",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: vida e contexto macedônico?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Academia e Liceu",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: academia e liceu?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Lógica e demonstração",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: lógica e demonstração?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Física e explicação causal",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: física e explicação causal?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Biologia e observação",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: biologia e observação?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Ética e virtude",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: ética e virtude?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Política e cidadania",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: política e cidadania?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Tradições de comentário e crítica",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: tradições de comentário e crítica?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "hipatia",
+    "titulo": "Hipátia de Alexandria",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Alexandria na Antiguidade Tardia",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: alexandria na antiguidade tardia?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Formação e ensino filosófico",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: formação e ensino filosófico?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Matemática e astronomia atribuídas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: matemática e astronomia atribuídas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Fontes sobre a vida de Hipátia",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: fontes sobre a vida de hipátia?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Conflitos cívicos e religiosos",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: conflitos cívicos e religiosos?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Assassinato e consequências",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: assassinato e consequências?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Construções posteriores de sua imagem",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: construções posteriores de sua imagem?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Historiografia e limites documentais",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: historiografia e limites documentais?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "imperio-bizantino",
+    "titulo": "Império Bizantino",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Continuidade do Império Romano",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: continuidade do império romano?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Constantinopla e poder imperial",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: constantinopla e poder imperial?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Cristianismo e instituições",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: cristianismo e instituições?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Economia e sociedade",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: economia e sociedade?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Conflitos e mudanças territoriais",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: conflitos e mudanças territoriais?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Arte, direito e cultura escrita",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: arte, direito e cultura escrita?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Cruzadas e relações mediterrâneas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: cruzadas e relações mediterrâneas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "1453 e memória bizantina",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: 1453 e memória bizantina?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "humanismo",
+    "titulo": "Humanismo Renascentista",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Origem e usos do termo",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: origem e usos do termo?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Filologia e crítica textual",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: filologia e crítica textual?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Educação humanista",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: educação humanista?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Retórica e vida cívica",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: retórica e vida cívica?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Manuscritos, bibliotecas e impressão",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: manuscritos, bibliotecas e impressão?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Redes intelectuais europeias",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: redes intelectuais europeias?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Limites sociais do movimento",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: limites sociais do movimento?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Relação com reformas e ciência",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: relação com reformas e ciência?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "imprensa-gutenberg",
+    "titulo": "Imprensa de Tipos Móveis",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Tecnologias de impressão anteriores",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: tecnologias de impressão anteriores?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Europa e oficinas do século XV",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: europa e oficinas do século xv?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Tipos móveis, tinta e prensa",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: tipos móveis, tinta e prensa?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Economia do livro",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: economia do livro?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Leitores, alfabetização e censura",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: leitores, alfabetização e censura?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Textos religiosos e controvérsias",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: textos religiosos e controvérsias?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Circulação do conhecimento científico",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: circulação do conhecimento científico?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Limites da ideia de revolução",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: limites da ideia de revolução?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "leonardo-da-vinci",
+    "titulo": "Leonardo da Vinci",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Formação em oficinas florentinas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: formação em oficinas florentinas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Mecenato e trajetórias profissionais",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: mecenato e trajetórias profissionais?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Pintura e experimentação",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: pintura e experimentação?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Anatomia e observação",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: anatomia e observação?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Máquinas e desenhos técnicos",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: máquinas e desenhos técnicos?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Cadernos e métodos de registro",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: cadernos e métodos de registro?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Projetos realizados e imaginados",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: projetos realizados e imaginados?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Mito do gênio e historiografia",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: mito do gênio e historiografia?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "revolucao-cientifica",
+    "titulo": "Revolução Científica",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "O conceito historiográfico",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: o conceito historiográfico?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Cosmologias antes do século XVI",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: cosmologias antes do século xvi?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Copérnico e astronomia",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: copérnico e astronomia?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Galileu, instrumentos e controvérsias",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: galileu, instrumentos e controvérsias?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Kepler e descrição matemática",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: kepler e descrição matemática?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Newton e sínteses posteriores",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: newton e sínteses posteriores?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Instituições, impressão e redes",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: instituições, impressão e redes?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Continuidades, exclusões e críticas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: continuidades, exclusões e críticas?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "povos-originarios",
+    "titulo": "Povos originários antes de 1500",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Ocupação antiga do território",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: ocupação antiga do território?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Diversidade linguística e cultural",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: diversidade linguística e cultural?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Arqueologia e cultura material",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: arqueologia e cultura material?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Agricultura, manejo e paisagens",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: agricultura, manejo e paisagens?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Redes de circulação e intercâmbio",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: redes de circulação e intercâmbio?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Organizações sociais e políticas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: organizações sociais e políticas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Tradições orais e conhecimento indígena",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: tradições orais e conhecimento indígena?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Crítica ao marco colonial de 1500",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: crítica ao marco colonial de 1500?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "colonizacao-portuguesa",
+    "titulo": "Colonização portuguesa e resistências",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Expansão atlântica portuguesa",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: expansão atlântica portuguesa?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Primeiros contatos e alianças",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: primeiros contatos e alianças?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Ocupação e administração colonial",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: ocupação e administração colonial?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Economias e exploração do trabalho",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: economias e exploração do trabalho?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Escravização indígena e africana",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: escravização indígena e africana?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Resistências e negociações",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: resistências e negociações?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Religião e transformações culturais",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: religião e transformações culturais?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Fontes coloniais e seus silêncios",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: fontes coloniais e seus silêncios?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "independencia-brasil",
+    "titulo": "Independência do Brasil",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Crise do Antigo Regime português",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: crise do antigo regime português?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Corte portuguesa no Rio de Janeiro",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: corte portuguesa no rio de janeiro?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Revolução do Porto e tensões políticas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: revolução do porto e tensões políticas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Rupturas e guerras de independência",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: rupturas e guerras de independência?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Projetos políticos provinciais",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: projetos políticos provinciais?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Escravidão e limites da cidadania",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: escravidão e limites da cidadania?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Constituição de 1824 e consolidação",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: constituição de 1824 e consolidação?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Debates sobre o caráter da independência",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: debates sobre o caráter da independência?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "proclamacao-republica",
+    "titulo": "Proclamação da República",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Crises do Segundo Reinado",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: crises do segundo reinado?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Abolição e conflitos sociais",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: abolição e conflitos sociais?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Militares e movimento republicano",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: militares e movimento republicano?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "15 de novembro de 1889",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: 15 de novembro de 1889?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Governo provisório e Constituição de 1891",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: governo provisório e constituição de 1891?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Federalismo e poderes regionais",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: federalismo e poderes regionais?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Cidadania e exclusões políticas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: cidadania e exclusões políticas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Memórias e interpretações da República",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: memórias e interpretações da república?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "ditadura-militar-brasil",
+    "titulo": "Ditadura militar no Brasil",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Crise política e golpe de 1964",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: crise política e golpe de 1964?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Institucionalização do regime",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: institucionalização do regime?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Atos institucionais e censura",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: atos institucionais e censura?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Repressão, prisões e tortura",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: repressão, prisões e tortura?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Economia e desigualdade",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: economia e desigualdade?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Resistências e mobilizações",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: resistências e mobilizações?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Abertura e transição política",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: abertura e transição política?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Memória, arquivos e justiça de transição",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: memória, arquivos e justiça de transição?",
+        "fontesVerificadas": []
+      }
+    ]
+  },
+  {
+    "id": "constituicao-1988",
+    "titulo": "Constituição de 1988",
+    "metaPalavras": 8000,
+    "estado": "planejado",
+    "nota": "Plano de pesquisa, não artigo concluído. Títulos e questões não constituem evidência histórica.",
+    "capitulos": [
+      {
+        "ordem": 1,
+        "titulo": "Transição democrática",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: transição democrática?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 2,
+        "titulo": "Mobilização social e Constituinte",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: mobilização social e constituinte?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 3,
+        "titulo": "Processo de elaboração",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: processo de elaboração?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 4,
+        "titulo": "Direitos individuais e coletivos",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: direitos individuais e coletivos?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 5,
+        "titulo": "Direitos sociais e políticas públicas",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: direitos sociais e políticas públicas?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 6,
+        "titulo": "Federalismo e instituições",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: federalismo e instituições?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 7,
+        "titulo": "Emendas e interpretação constitucional",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: emendas e interpretação constitucional?",
+        "fontesVerificadas": []
+      },
+      {
+        "ordem": 8,
+        "titulo": "Efetividade e desafios contemporâneos",
+        "metaPalavras": 1000,
+        "estado": "pendente",
+        "questaoOrientadora": "Quais evidências, interpretações e limites documentais permitem explicar: efetividade e desafios contemporâneos?",
+        "fontesVerificadas": []
+      }
+    ]
+  }
+]
