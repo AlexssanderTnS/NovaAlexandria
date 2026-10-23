@@ -40,7 +40,43 @@
         "id": "filosofia-grega",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "Mais do que uma coleção de manuscritos, a Biblioteca de Alexandria representa um projeto de organização e circulação do conhecimento no mundo antigo.",
+      "secoes": [
+        {
+          "titulo": "A cidade e o projeto de reunir saberes",
+          "paragrafos": [
+            "Alexandria floresceu no Egito governado pelos Ptolomeus. Sua localização mediterrânea e o apoio da corte ajudaram a criar um ambiente de circulação de pessoas, textos e ideias. A Biblioteca é associada a esse projeto intelectual do período helenístico."
+          ]
+        },
+        {
+          "titulo": "O trabalho dos estudiosos",
+          "paragrafos": [
+            "Preservar textos antigos exigia copiar manuscritos, comparar versões, comentar obras e organizar coleções. O Mouseion, ligado à vida erudita de Alexandria, é frequentemente mencionado ao lado da Biblioteca. Ainda há incertezas sobre os detalhes administrativos das instituições."
+          ]
+        },
+        {
+          "titulo": "O tamanho do acervo",
+          "paragrafos": [
+            "Não existe um inventário completo preservado. Os números de rolos mencionados em relatos antigos variam, e um rolo não equivale necessariamente a um livro moderno. Por isso, afirmações sobre quantidades exatas devem ser tratadas com cautela."
+          ]
+        },
+        {
+          "titulo": "A questão do desaparecimento",
+          "paragrafos": [
+            "A explicação de um único incêndio que teria destruído tudo é excessivamente simples. Os historiadores discutem episódios distintos de violência, mudanças políticas e declínio institucional ao longo do tempo. A documentação é fragmentária."
+          ]
+        },
+        {
+          "titulo": "Um legado para além do edifício",
+          "paragrafos": [
+            "A Biblioteca de Alexandria tornou-se símbolo da preservação e transmissão do conhecimento. Sua história mostra como ideias dependem de redes de pessoas, instituições e cópias para sobreviver. É também uma porta de entrada para compreender Euclides, o Mouseion e o mundo helenístico."
+          ]
+        }
+      ],
+      "conclusao": "Explorar a Biblioteca significa investigar tanto a produção de conhecimento quanto sua preservação — e reconhecer as incertezas que permanecem nas fontes antigas."
+    }
   },
   {
     "id": "alexandre-magno",
