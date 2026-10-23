@@ -24,13 +24,13 @@ const places = {
     },
 
     globo: {
-        title: "O Globo — Atlas",
+        title: "O Globo — Teia do Tempo",
 
-        text: "O Atlas é o lugar de explorar conexões entre conhecimentos. A Teia do Tempo permite navegar entre épocas e assuntos relacionados.",
+        text: "A Teia do Tempo é o lugar de explorar conexões entre conhecimentos. A Teia do Tempo permite navegar entre épocas e assuntos relacionados.",
 
         target: "teias.html",
 
-        label: "Conhecer o Atlas →"
+        label: "Conhecer a Teia →"
     }
 
 };
@@ -115,71 +115,6 @@ dialog?.addEventListener("click", (event) => {
 
     if (clickedOutside) {
         hideDialog();
-    }
-
-});
-
-
-
-const menu = document.querySelector("#menuBtn");
-
-const mobile = document.querySelector("#mobileNav");
-
-
-
-function setMobileMenu(open) {
-
-    if (!menu || !mobile) {
-        return;
-    }
-
-    mobile.hidden = !open;
-
-    menu.setAttribute(
-        "aria-expanded",
-        String(open)
-    );
-
-    menu.setAttribute(
-        "aria-label",
-        open ? "Fechar menu" : "Abrir menu"
-    );
-
-}
-
-
-
-menu?.addEventListener("click", () => {
-
-    const isOpen =
-        menu.getAttribute("aria-expanded") === "true";
-
-    setMobileMenu(!isOpen);
-
-});
-
-
-
-mobile?.querySelectorAll("a").forEach((link) => {
-
-    link.addEventListener("click", () => {
-
-        setMobileMenu(false);
-
-    });
-
-});
-
-
-
-const desktopBreakpoint = window.matchMedia(
-    "(min-width: 761px)"
-);
-
-desktopBreakpoint.addEventListener("change", (event) => {
-
-    if (event.matches) {
-        setMobileMenu(false);
     }
 
 });
