@@ -111,7 +111,31 @@
         "id": "aristoteles",
         "tipo": "influencia"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "As campanhas macedônicas transformaram as relações políticas e culturais do Mediterrâneo oriental e da Ásia.",
+      "secoes": [
+        {
+          "titulo": "A conquista e a circulação cultural",
+          "paragrafos": [
+            "Alexandre herdou a expansão militar macedônica e derrotou o Império Aquemênida. Suas campanhas alteraram relações de poder em territórios extensos, mas não criaram uma cultura única. Povos e tradições locais continuaram a existir e a se transformar."
+          ]
+        },
+        {
+          "titulo": "A cidade que atravessou séculos",
+          "paragrafos": [
+            "A fundação de Alexandria no Egito ligou seu nome a uma cidade que, sob os Ptolomeus, viria a se destacar como centro comercial e intelectual. É importante distinguir as campanhas de Alexandre das instituições fundadas posteriormente."
+          ]
+        },
+        {
+          "titulo": "O que ocorreu após sua morte",
+          "paragrafos": [
+            "A morte de Alexandre em 323 a.C. foi seguida por disputas entre seus sucessores. A formação de reinos helenísticos ajuda a explicar a circulação de práticas e ideias no Mediterrâneo oriental."
+          ]
+        }
+      ],
+      "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
+    }
   },
   {
     "id": "euclides",
@@ -150,7 +174,31 @@
         "id": "filosofia-grega",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "A obra Elementos organizou definições, postulados e demonstrações que influenciaram a matemática por séculos.",
+      "secoes": [
+        {
+          "titulo": "O autor e as fontes",
+          "paragrafos": [
+            "As informações biográficas sobre Euclides são escassas. Sua associação a Alexandria e sua obra matemática são mais conhecidas do que os detalhes de sua vida."
+          ]
+        },
+        {
+          "titulo": "Os Elementos e o método",
+          "paragrafos": [
+            "Os Elementos organizam resultados matemáticos por definições, postulados e provas. A obra não deve ser entendida como invenção individual de toda a geometria, mas como uma síntese influente de tradições anteriores."
+          ]
+        },
+        {
+          "titulo": "A importância da transmissão",
+          "paragrafos": [
+            "A obra foi estudada, traduzida e comentada em diferentes contextos históricos. Ela oferece um caminho para compreender a ideia de demonstração rigorosa."
+          ]
+        }
+      ],
+      "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
+    }
   },
   {
     "id": "queda-constantinopla",
@@ -185,7 +233,31 @@
         "id": "imprensa-gutenberg",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "A conquista otomana marcou o fim do Império Bizantino e reconfigurou o poder na região.",
+      "secoes": [
+        {
+          "titulo": "Uma cidade entre continentes",
+          "paragrafos": [
+            "Constantinopla era capital do Império Romano do Oriente e ocupava posição estratégica entre o mar Negro e o Mediterrâneo. Sua história envolve comércio, religião e disputas políticas."
+          ]
+        },
+        {
+          "titulo": "A conquista de 1453",
+          "paragrafos": [
+            "As forças otomanas comandadas por Mehmed II tomaram Constantinopla em maio de 1453. O cerco envolveu artilharia e encerrou o governo imperial bizantino na cidade."
+          ]
+        },
+        {
+          "titulo": "O que mudou depois",
+          "paragrafos": [
+            "A cidade passou a ocupar posição central no poder otomano. Associar a queda ao início do Renascimento é simplificador, porque transformações humanistas e artísticas já aconteciam antes."
+          ]
+        }
+      ],
+      "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
+    }
   },
   {
     "id": "renascimento",
@@ -202,6 +274,14 @@
     ],
     "imagem": null,
     "fontes": [
+      {
+        "titulo": "The Metropolitan Museum of Art — Florence and Central Italy, 1400–1600",
+        "url": "https://www.metmuseum.org/es/toah/ht/08/eustc?trk=article-ssr-frontend-pulse_little-text-block"
+      },
+      {
+        "titulo": "The Met — Heilbrunn Timeline of Art History",
+        "url": "https://www.metmuseum.org/pt/met-publications/heilbrunn-timeline-of-art-history"
+      },
       {
         "titulo": "Encyclopaedia Britannica — pesquisa sobre Renascimento",
         "url": "https://www.britannica.com/search?query=Renascimento"
@@ -245,6 +325,14 @@
     ],
     "imagem": null,
     "fontes": [
+      {
+        "titulo": "OpenStax — Classical Philosophy",
+        "url": "https://openstax.org/books/introduction-philosophy/pages/4-2-classical-philosophy"
+      },
+      {
+        "titulo": "Internet Encyclopedia of Philosophy — Ancient Greek Philosophy",
+        "url": "https://iep.utm.edu/ancient-greek-philosophy/"
+      },
       {
         "titulo": "Encyclopaedia Britannica — pesquisa sobre Filosofia Grega",
         "url": "https://www.britannica.com/search?query=Filosofia%20Grega"
@@ -310,7 +398,31 @@
         "id": "arquimedes",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "Um período de intercâmbios culturais e novas configurações políticas após Alexandre.",
+      "secoes": [
+        {
+          "titulo": "Reinos após Alexandre",
+          "paragrafos": [
+            "Após 323 a.C., antigos territórios conquistados por Alexandre foram disputados e reorganizados por seus sucessores. O Egito ptolemaico foi um dos reinos que emergiram desse processo."
+          ]
+        },
+        {
+          "titulo": "Trocas sem uniformidade",
+          "paragrafos": [
+            "O grego circulou em vários ambientes administrativos e intelectuais, mas conviveu com outras línguas e tradições. O período helenístico foi marcado por encontros culturais desiguais e variados."
+          ]
+        },
+        {
+          "titulo": "O papel de Alexandria",
+          "paragrafos": [
+            "A cidade egípcia se destacou como centro de estudo e circulação de textos. O Mouseion e a Biblioteca são frequentemente associados a esse ambiente."
+          ]
+        }
+      ],
+      "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
+    }
   },
   {
     "id": "museu-alexandria",
@@ -349,7 +461,31 @@
         "id": "arquimedes",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "O Mouseion reuniu atividades de estudo e investigação associadas ao ambiente intelectual alexandrino.",
+      "secoes": [
+        {
+          "titulo": "O que era o Mouseion",
+          "paragrafos": [
+            "O Mouseion não era um museu de visitação no sentido moderno. Tratava-se de uma instituição vinculada às Musas e associada à atividade intelectual na Alexandria ptolemaica."
+          ]
+        },
+        {
+          "titulo": "Patronagem e produção intelectual",
+          "paragrafos": [
+            "O apoio da corte ajudava a sustentar estudos e discussões. As evidências sobre a organização interna são incompletas, por isso detalhes populares sobre sua rotina exigem cautela."
+          ]
+        },
+        {
+          "titulo": "Conexão com a Biblioteca",
+          "paragrafos": [
+            "A relação entre o Mouseion e a Biblioteca é fundamental para estudar a organização do saber no período helenístico, mesmo que não conheçamos todos os seus aspectos administrativos."
+          ]
+        }
+      ],
+      "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
+    }
   },
   {
     "id": "arquimedes",
@@ -384,7 +520,31 @@
         "id": "museu-alexandria",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "Matemático e inventor antigo conhecido por contribuições à geometria e à mecânica.",
+      "secoes": [
+        {
+          "titulo": "Matemática em Siracusa",
+          "paragrafos": [
+            "Arquimedes viveu no século III a.C. e trabalhou em questões de geometria e mecânica. Narrativas famosas sobre sua vida nem sempre têm o mesmo grau de sustentação documental."
+          ]
+        },
+        {
+          "titulo": "Investigações sobre formas e equilíbrio",
+          "paragrafos": [
+            "Textos atribuídos a Arquimedes abordam áreas, volumes, centros de gravidade e equilíbrio de corpos. Seu trabalho exemplifica o uso de argumentos matemáticos em problemas físicos."
+          ]
+        },
+        {
+          "titulo": "Como seus textos chegaram até nós",
+          "paragrafos": [
+            "A transmissão de manuscritos, cópias e traduções foi decisiva para que parte de sua obra sobrevivesse."
+          ]
+        }
+      ],
+      "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
+    }
   },
   {
     "id": "socrates",
@@ -401,6 +561,14 @@
     ],
     "imagem": null,
     "fontes": [
+      {
+        "titulo": "Stanford Encyclopedia of Philosophy — Socrates",
+        "url": "https://plato.stanford.edu/entries/socrates/"
+      },
+      {
+        "titulo": "Internet Encyclopedia of Philosophy — Ancient Greek Philosophy",
+        "url": "https://iep.utm.edu/ancient-greek-philosophy/"
+      },
       {
         "titulo": "Encyclopaedia Britannica — pesquisa sobre Sócrates",
         "url": "https://www.britannica.com/search?query=S%C3%B3crates"
@@ -432,6 +600,14 @@
     ],
     "imagem": null,
     "fontes": [
+      {
+        "titulo": "Stanford Encyclopedia of Philosophy — Plato",
+        "url": "https://plato.stanford.edu/entries/plato/"
+      },
+      {
+        "titulo": "Internet Encyclopedia of Philosophy — Plato",
+        "url": "https://iep.utm.edu/plato/"
+      },
       {
         "titulo": "Encyclopaedia Britannica — pesquisa sobre Platão",
         "url": "https://www.britannica.com/search?query=Plat%C3%A3o"
@@ -467,6 +643,14 @@
     ],
     "imagem": null,
     "fontes": [
+      {
+        "titulo": "OpenStax — Classical Philosophy",
+        "url": "https://openstax.org/books/introduction-philosophy/pages/4-2-classical-philosophy"
+      },
+      {
+        "titulo": "Internet Encyclopedia of Philosophy — Ancient Greek Philosophy",
+        "url": "https://iep.utm.edu/ancient-greek-philosophy/"
+      },
       {
         "titulo": "Encyclopaedia Britannica — pesquisa sobre Aristóteles",
         "url": "https://www.britannica.com/search?query=Arist%C3%B3teles"
@@ -520,7 +704,31 @@
         "id": "imperio-bizantino",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "Filósofa e matemática associada à tradição intelectual da Alexandria tardia.",
+      "secoes": [
+        {
+          "titulo": "Uma estudiosa da Alexandria tardia",
+          "paragrafos": [
+            "Hipátia atuou como professora de filosofia e matemática na cidade de Alexandria. Sua vida é reconstruída principalmente a partir de relatos de terceiros."
+          ]
+        },
+        {
+          "titulo": "Um contexto político complexo",
+          "paragrafos": [
+            "Alexandria era palco de disputas entre autoridades civis e religiosas. Reduzir a história de Hipátia a um conflito simples entre ciência e religião apaga a complexidade dessas relações."
+          ]
+        },
+        {
+          "titulo": "Memória e interpretação",
+          "paragrafos": [
+            "O assassinato de Hipátia em 415 tornou-se um episódio amplamente reinterpretado. É importante separar as evidências antigas das representações literárias e políticas posteriores."
+          ]
+        }
+      ],
+      "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
+    }
   },
   {
     "id": "imperio-bizantino",
@@ -551,7 +759,31 @@
         "id": "queda-constantinopla",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "A continuidade do Império Romano no Oriente, com capital em Constantinopla.",
+      "secoes": [
+        {
+          "titulo": "A continuidade do mundo romano",
+          "paragrafos": [
+            "O nome Império Bizantino é usado por historiadores para designar o Império Romano do Oriente. Seus habitantes mantiveram diferentes formas de identidade romana."
+          ]
+        },
+        {
+          "titulo": "Mudanças ao longo de mil anos",
+          "paragrafos": [
+            "O império passou por transformações políticas, territoriais, linguísticas e religiosas. Constantinopla foi um centro importante, mas sua história não se resume à capital."
+          ]
+        },
+        {
+          "titulo": "O fim do governo imperial",
+          "paragrafos": [
+            "A conquista otomana de 1453 encerrou o governo imperial em Constantinopla, mas tradições culturais, jurídicas e religiosas continuaram a circular."
+          ]
+        }
+      ],
+      "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
+    }
   },
   {
     "id": "humanismo",
@@ -568,6 +800,10 @@
     ],
     "imagem": null,
     "fontes": [
+      {
+        "titulo": "The Metropolitan Museum of Art — Florence and Central Italy, 1400–1600",
+        "url": "https://www.metmuseum.org/es/toah/ht/08/eustc?trk=article-ssr-frontend-pulse_little-text-block"
+      },
       {
         "titulo": "Encyclopaedia Britannica — pesquisa sobre Humanismo Renascentista",
         "url": "https://www.britannica.com/search?query=Humanismo%20Renascentista"
@@ -625,7 +861,31 @@
         "id": "revolucao-cientifica",
         "tipo": "influencia"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "A impressão com tipos móveis metálicos acelerou a reprodução de textos na Europa.",
+      "secoes": [
+        {
+          "titulo": "Uma inovação feita de várias técnicas",
+          "paragrafos": [
+            "A impressão com tipos móveis metálicos na Europa combinou fundição de tipos, tinta adequada e técnicas de prensa. O processo não deve ser confundido com a invenção mundial da impressão, que tem histórias anteriores na Ásia."
+          ]
+        },
+        {
+          "titulo": "A reprodução de textos",
+          "paragrafos": [
+            "A impressão favoreceu a produção de múltiplos exemplares de obras e ajudou a expandir circuitos de leitura. A alfabetização e o acesso a livros continuaram desiguais."
+          ]
+        },
+        {
+          "titulo": "Impacto na circulação das ideias",
+          "paragrafos": [
+            "Livros impressos tiveram papel relevante na difusão de debates religiosos, científicos e humanistas, mas as transformações ocorreram de modo gradual."
+          ]
+        }
+      ],
+      "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
+    }
   },
   {
     "id": "leonardo-da-vinci",
@@ -642,6 +902,10 @@
     ],
     "imagem": null,
     "fontes": [
+      {
+        "titulo": "The Metropolitan Museum of Art — Florence and Central Italy, 1400–1600",
+        "url": "https://www.metmuseum.org/es/toah/ht/08/eustc?trk=article-ssr-frontend-pulse_little-text-block"
+      },
       {
         "titulo": "Encyclopaedia Britannica — pesquisa sobre Leonardo da Vinci",
         "url": "https://www.britannica.com/search?query=Leonardo%20da%20Vinci"
@@ -699,6 +963,30 @@
         "id": "aristoteles",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "Mudanças nas práticas de investigação natural e nos modelos explicativos do mundo.",
+      "secoes": [
+        {
+          "titulo": "Uma expressão para muitos processos",
+          "paragrafos": [
+            "A Revolução Científica costuma reunir mudanças ocorridas entre os séculos XVI e XVII. Não foi um evento único nem uma substituição imediata de todas as explicações anteriores."
+          ]
+        },
+        {
+          "titulo": "Observar, calcular e argumentar",
+          "paragrafos": [
+            "Astronomia, física e outros campos passaram por debates sobre modelos explicativos, observações e métodos. Diferentes pesquisadores combinaram práticas novas com tradições herdadas."
+          ]
+        },
+        {
+          "titulo": "Circulação e contestação",
+          "paragrafos": [
+            "A imprensa, as correspondências e instituições de estudo ajudaram a divulgar e questionar resultados. A ciência se desenvolveu por cooperação e controvérsia."
+          ]
+        }
+      ],
+      "conclusao": "Explore os assuntos relacionados na Teia do Tempo para compreender as conexões históricas sem confundir proximidade cronológica com influência direta."
+    }
   }
 ]
