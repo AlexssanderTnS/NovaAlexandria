@@ -308,7 +308,31 @@
         "id": "revolucao-cientifica",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "Um conjunto de transformações na arte, nas letras e nos estudos sobre a Antiguidade.",
+      "secoes": [
+        {
+          "titulo": "Uma transformação com vários centros",
+          "paragrafos": [
+            "O Renascimento envolveu mudanças artísticas e intelectuais em diferentes regiões europeias, com destaque para centros italianos. Não aconteceu de forma uniforme nem começou em uma única data."
+          ]
+        },
+        {
+          "titulo": "Antiguidade e inovação",
+          "paragrafos": [
+            "Estudiosos retomaram textos clássicos, enquanto artistas desenvolveram novas abordagens de proporção, perspectiva e representação. O estudo da Antiguidade conviveu com invenções e práticas locais."
+          ]
+        },
+        {
+          "titulo": "Mecenato e circulação",
+          "paragrafos": [
+            "Famílias influentes, instituições e cidades financiaram obras e estudos. O humanismo e a impressão de livros contribuíram para a circulação de ideias, sem eliminar desigualdades no acesso à educação."
+          ]
+        }
+      ],
+      "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
+    }
   },
   {
     "id": "filosofia-grega",
@@ -359,7 +383,31 @@
         "id": "biblioteca-alexandria",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "Uma tradição diversa de reflexão sobre natureza, ética, política e conhecimento.",
+      "secoes": [
+        {
+          "titulo": "Um conjunto de tradições",
+          "paragrafos": [
+            "A filosofia grega não foi uma escola única. Incluiu investigações sobre a natureza, a vida humana, a política e a possibilidade de conhecer. O termo abrange autores que frequentemente discordavam entre si."
+          ]
+        },
+        {
+          "titulo": "Os debates clássicos",
+          "paragrafos": [
+            "Sócrates ficou associado ao exame crítico de crenças; Platão desenvolveu diálogos sobre ética, conhecimento e política; Aristóteles escreveu tratados sobre lógica, natureza e vida em sociedade. Essas diferenças ajudam a evitar uma visão homogênea da filosofia antiga."
+          ]
+        },
+        {
+          "titulo": "As fontes que sobreviveram",
+          "paragrafos": [
+            "Grande parte dos textos antigos se perdeu. O conhecimento atual depende de manuscritos preservados, citações, comentários e traduções posteriores."
+          ]
+        }
+      ],
+      "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
+    }
   },
   {
     "id": "helenismo",
@@ -583,7 +631,31 @@
         "id": "filosofia-grega",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "Figura central da filosofia ateniense, conhecida principalmente por relatos de seus contemporâneos e discípulos.",
+      "secoes": [
+        {
+          "titulo": "O problema das fontes",
+          "paragrafos": [
+            "Sócrates não deixou escritos conhecidos. Sua vida e suas ideias são reconstruídas a partir de autores como Platão, Xenofonte e Aristófanes, cujos retratos não coincidem em todos os aspectos."
+          ]
+        },
+        {
+          "titulo": "Perguntar e examinar",
+          "paragrafos": [
+            "O filósofo tornou-se associado ao diálogo e à investigação de conceitos como justiça, coragem e virtude. Nem toda fala do personagem Sócrates nos diálogos de Platão pode ser atribuída diretamente ao Sócrates histórico."
+          ]
+        },
+        {
+          "titulo": "O julgamento de 399 a.C.",
+          "paragrafos": [
+            "Sócrates foi julgado e condenado em Atenas. Seu julgamento e morte influenciaram debates posteriores sobre educação, pensamento crítico e vida política."
+          ]
+        }
+      ],
+      "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
+    }
   },
   {
     "id": "platao",
@@ -626,7 +698,31 @@
         "id": "filosofia-grega",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "Filósofo cujos diálogos discutem conhecimento, política, educação e realidade.",
+      "secoes": [
+        {
+          "titulo": "A filosofia escrita em diálogos",
+          "paragrafos": [
+            "Grande parte da obra de Platão assume a forma de conversas entre personagens. Esse formato convida o leitor a acompanhar perguntas, argumentos e dificuldades, em vez de receber apenas conclusões."
+          ]
+        },
+        {
+          "titulo": "A relação com Sócrates",
+          "paragrafos": [
+            "Platão foi profundamente marcado por Sócrates, mas seus diálogos não são transcrições literais de conversas. A distinção entre as ideias dos dois filósofos é tema de investigação acadêmica."
+          ]
+        },
+        {
+          "titulo": "Conhecimento e política",
+          "paragrafos": [
+            "Obras como A República exploram questões sobre justiça, educação e organização política. Outros diálogos investigam linguagem, realidade e os limites do conhecimento."
+          ]
+        }
+      ],
+      "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
+    }
   },
   {
     "id": "aristoteles",
@@ -673,7 +769,31 @@
         "id": "revolucao-cientifica",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "Filósofo que escreveu sobre lógica, biologia, ética, política e diversas áreas do saber.",
+      "secoes": [
+        {
+          "titulo": "Da Academia ao Liceu",
+          "paragrafos": [
+            "Aristóteles estudou na Academia de Platão e depois desenvolveu atividades de ensino e pesquisa ligadas ao Liceu. Seu pensamento dialogou com tradições anteriores e também as criticou."
+          ]
+        },
+        {
+          "titulo": "Um campo amplo de investigação",
+          "paragrafos": [
+            "Seus escritos tratam de lógica, ética, política, biologia e explicações da natureza. Essa variedade mostra como as divisões atuais entre disciplinas nem sempre se aplicam ao mundo antigo."
+          ]
+        },
+        {
+          "titulo": "Recepção e crítica",
+          "paragrafos": [
+            "Textos aristotélicos foram preservados e comentados em diferentes tradições. Na história da ciência, algumas de suas explicações foram debatidas e revistas."
+          ]
+        }
+      ],
+      "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
+    }
   },
   {
     "id": "hipatia",
@@ -822,7 +942,31 @@
         "id": "leonardo-da-vinci",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "Movimento de estudo das línguas, textos e tradições da Antiguidade clássica.",
+      "secoes": [
+        {
+          "titulo": "Estudar a Antiguidade criticamente",
+          "paragrafos": [
+            "O humanismo renascentista valorizou o estudo de línguas, retórica, história e textos clássicos. A comparação de manuscritos e a atenção às palavras faziam parte de suas práticas."
+          ]
+        },
+        {
+          "titulo": "Educação e vida pública",
+          "paragrafos": [
+            "A formação humanista buscava desenvolver habilidades de leitura, escrita e argumentação. Seus objetivos variavam conforme cidades, instituições e grupos sociais."
+          ]
+        },
+        {
+          "titulo": "Humanismo e Renascimento",
+          "paragrafos": [
+            "Os estudos humanistas dialogaram com a produção artística e intelectual renascentista. É importante não tratar os dois termos como sinônimos perfeitos."
+          ]
+        }
+      ],
+      "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
+    }
   },
   {
     "id": "imprensa-gutenberg",
@@ -924,7 +1068,31 @@
         "id": "revolucao-cientifica",
         "tipo": "tematica"
       }
-    ]
+    ],
+    "artigo": {
+      "introducao": "Artista e investigador conhecido por pinturas, desenhos anatômicos e estudos técnicos.",
+      "secoes": [
+        {
+          "titulo": "Entre oficinas e cortes",
+          "paragrafos": [
+            "Leonardo da Vinci desenvolveu sua carreira em ambientes artísticos e de patronagem da Itália renascentista. Seu trabalho combinou encomendas, estudos pessoais e experimentações."
+          ]
+        },
+        {
+          "titulo": "Cadernos e observação",
+          "paragrafos": [
+            "Seus desenhos e anotações abordaram anatomia, água, máquinas e movimento. Muitos projetos registrados nos cadernos não foram construídos, o que exige cuidado ao chamá-los de invenções realizadas."
+          ]
+        },
+        {
+          "titulo": "Arte e investigação",
+          "paragrafos": [
+            "A obra de Leonardo mostra como desenho, observação e produção artística podiam se relacionar com o estudo do mundo natural."
+          ]
+        }
+      ],
+      "conclusao": "Na Teia do Tempo, explore as relações com outros temas para ampliar o contexto desta história."
+    }
   },
   {
     "id": "revolucao-cientifica",
