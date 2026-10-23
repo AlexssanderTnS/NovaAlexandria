@@ -51,6 +51,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "O projeto de colecionar e comparar textos estava ligado à autoridade dos governantes ptolomaicos. Patrocinar estudiosos e reunir manuscritos permitia à corte apresentar Alexandria como centro de prestígio intelectual. Essa dimensão política é tão importante quanto a imagem moderna de uma biblioteca aberta a qualquer visitante: não possuímos evidência suficiente para descrever seu acesso nos termos de uma biblioteca pública atual.",
+            "A cidade reunia tradições egípcias, gregas e de outras partes do Mediterrâneo. A circulação de manuscritos não significava apenas preservá-los: copiar, corrigir, organizar e interpretar obras produzia novas versões dos textos. Ao estudar a Biblioteca, convém separar a história da instituição, a do Mouseion e a trajetória posterior das obras que sobreviveram por outras vias."
+          ]
+        },
+        {
           "titulo": "O trabalho dos estudiosos",
           "paragrafos": [
             "Preservar textos antigos exigia copiar manuscritos, comparar versões, comentar obras e organizar coleções. O Mouseion, ligado à vida erudita de Alexandria, é frequentemente mencionado ao lado da Biblioteca. Ainda há incertezas sobre os detalhes administrativos das instituições."
@@ -95,7 +102,7 @@
         "explicacao": "As evidências são fragmentárias; a narrativa de uma destruição total por um único incêndio simplifica o debate histórico."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -142,6 +149,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "A expansão de Alexandre dependeu das transformações realizadas por Filipe II na Macedônia, especialmente na organização militar e nas relações políticas com cidades gregas. Após assumir o poder, Alexandre enfrentou o Império Aquemênida, cuja estrutura administrativa abrangia territórios e populações muito diversos. A vitória militar não significou que essas estruturas desapareceram imediatamente.",
+            "A narrativa das conquistas costuma acompanhar batalhas e decisões do comandante, mas uma história mais ampla também pergunta como as populações conquistadas reagiram, como tributos e governos foram reorganizados e quais alianças se mantiveram. Fontes posteriores construíram imagens heroicas ou críticas de Alexandre; comparar esses testemunhos é indispensável."
+          ]
+        },
+        {
           "titulo": "A cidade que atravessou séculos",
           "paragrafos": [
             "A fundação de Alexandria no Egito ligou seu nome a uma cidade que, sob os Ptolomeus, viria a se destacar como centro comercial e intelectual. É importante distinguir as campanhas de Alexandre das instituições fundadas posteriormente."
@@ -174,7 +188,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -225,6 +239,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "Os Elementos apresentam a matemática como um sistema de proposições demonstradas a partir de definições e postulados. Isso não significa que Euclides tenha descoberto isoladamente cada resultado: a obra sistematiza tradições matemáticas anteriores, reorganizadas em uma sequência que influenciou o ensino por muitos séculos.",
+            "A recepção de Euclides também é uma história de traduções e comentários. A transmissão em grego, árabe e latim modificou as condições de leitura da obra. Em vez de associar a geometria a uma lista de fórmulas, o estudo deve examinar por que uma demonstração é aceita e quais pressupostos tornam possível um argumento."
+          ]
+        },
+        {
           "titulo": "Os Elementos e o método",
           "paragrafos": [
             "Os Elementos organizam resultados matemáticos por definições, postulados e provas. A obra não deve ser entendida como invenção individual de toda a geometria, mas como uma síntese influente de tradições anteriores."
@@ -257,7 +278,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -304,6 +325,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "Constantinopla era capital de um império que se identificava com a tradição romana, embora seu território tivesse diminuído consideravelmente antes de 1453. A cidade possuía relevância religiosa, comercial e estratégica. O cerco otomano ocorreu em um contexto de disputas regionais, transformações militares e alianças diplomáticas complexas.",
+            "A conquista liderada por Mehmed II foi um acontecimento decisivo para o governo da cidade, mas seus efeitos não foram uniformes. Instituições, habitantes e práticas urbanas passaram por transformações graduais. A associação automática entre 1453 e o nascimento da modernidade europeia é uma convenção de periodização, não uma explicação suficiente das mudanças históricas."
+          ]
+        },
+        {
           "titulo": "A conquista de 1453",
           "paragrafos": [
             "As forças otomanas comandadas por Mehmed II tomaram Constantinopla em maio de 1453. O cerco envolveu artilharia e encerrou o governo imperial bizantino na cidade."
@@ -336,7 +364,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -399,6 +427,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "O Renascimento costuma ser associado às cidades italianas, ao mecenato e à valorização de obras da Antiguidade. Entretanto, artistas, estudiosos e patrocinadores atuavam em redes de oficinas, universidades, cortes e centros comerciais. Suas realizações dependiam de recursos, encomendas e tradições técnicas compartilhadas.",
+            "O uso do termo pode criar a impressão de que o período medieval não produziu conhecimento ou arte relevantes. A investigação histórica mostra continuidades entre épocas e diferenças entre regiões. Também é necessário perguntar quem pôde participar dessas redes culturais e quais grupos foram excluídos das narrativas tradicionais."
+          ]
+        },
+        {
           "titulo": "Antiguidade e inovação",
           "paragrafos": [
             "Estudiosos retomaram textos clássicos, enquanto artistas desenvolveram novas abordagens de proporção, perspectiva e representação. O estudo da Antiguidade conviveu com invenções e práticas locais."
@@ -431,7 +466,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -494,6 +529,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "O pensamento filosófico grego se desenvolveu em cidades e períodos diferentes, em diálogo com práticas políticas, educação, poesia e investigações sobre a natureza. A categoria 'filosofia grega' reúne autores que discordavam profundamente entre si sobre conhecimento, justiça e organização da vida coletiva.",
+            "A maior parte do que chegou até nós depende de processos seletivos de cópia e transmissão. Alguns pensadores são conhecidos sobretudo por fragmentos ou relatos de adversários. Por isso, estudar uma escola filosófica exige distinguir textos preservados, testemunhos indiretos e interpretações produzidas muito depois."
+          ]
+        },
+        {
           "titulo": "Os debates clássicos",
           "paragrafos": [
             "Sócrates ficou associado ao exame crítico de crenças; Platão desenvolveu diálogos sobre ética, conhecimento e política; Aristóteles escreveu tratados sobre lógica, natureza e vida em sociedade. Essas diferenças ajudam a evitar uma visão homogênea da filosofia antiga."
@@ -526,7 +568,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -577,6 +619,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "Depois da morte de Alexandre, disputas sucessórias produziram diferentes reinos, entre eles os governados pelas dinastias ptolomaica e selêucida. Essas formações políticas mantiveram relações comerciais e militares entre si, mas não constituíram um único Estado nem compartilharam uma experiência social homogênea.",
+            "O termo 'helenização' deve ser empregado com cuidado. A presença do grego em determinados ambientes administrativos e intelectuais coexistiu com outras línguas e tradições. Alexandria oferece um caso expressivo de circulação cultural, mas não representa automaticamente todas as sociedades do período."
+          ]
+        },
+        {
           "titulo": "Trocas sem uniformidade",
           "paragrafos": [
             "O grego circulou em vários ambientes administrativos e intelectuais, mas conviveu com outras línguas e tradições. O período helenístico foi marcado por encontros culturais desiguais e variados."
@@ -609,7 +658,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -660,6 +709,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "O Mouseion de Alexandria é associado a uma comunidade de eruditos patrocinada pela monarquia ptolomaica. O nome remete às Musas, e não ao museu moderno dedicado à exposição de objetos ao público. A proximidade com a Biblioteca costuma aparecer nas reconstruções históricas, mas os detalhes de organização permanecem discutidos.",
+            "A produção intelectual envolvia observação, comentário textual e discussão entre especialistas. O apoio institucional podia criar condições para pesquisa, mas também vinculava estudiosos às prioridades da corte. A documentação disponível é insuficiente para descrever com segurança uma rotina única de ensino ou pesquisa."
+          ]
+        },
+        {
           "titulo": "Patronagem e produção intelectual",
           "paragrafos": [
             "O apoio da corte ajudava a sustentar estudos e discussões. As evidências sobre a organização interna são incompletas, por isso detalhes populares sobre sua rotina exigem cautela."
@@ -692,7 +748,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -739,6 +795,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "Arquimedes viveu em Siracusa, em um Mediterrâneo marcado por disputas entre potências e circulação de saberes matemáticos. Seus tratados abordam problemas de geometria, grandezas e equilíbrio. O valor histórico dessas obras reside nos argumentos construídos, que podem ser examinados independentemente das histórias célebres atribuídas à sua biografia.",
+            "Relatos sobre máquinas extraordinárias e episódios de descoberta foram repetidos em épocas posteriores. Uma análise rigorosa distingue o que é sustentado por textos matemáticos, o que aparece em narrativas biográficas e o que pertence à tradição lendária. A transmissão manuscrita também condiciona o que hoje conhecemos."
+          ]
+        },
+        {
           "titulo": "Investigações sobre formas e equilíbrio",
           "paragrafos": [
             "Textos atribuídos a Arquimedes abordam áreas, volumes, centros de gravidade e equilíbrio de corpos. Seu trabalho exemplifica o uso de argumentos matemáticos em problemas físicos."
@@ -771,7 +834,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -822,6 +885,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "Sócrates viveu em Atenas durante um período de intensos conflitos políticos e militares. Sua atividade filosófica é frequentemente associada ao exame de crenças sobre virtude, justiça e conhecimento. Contudo, a ausência de obras escritas de sua autoria torna difícil reconstruir uma doutrina única e indiscutível.",
+            "Platão, Xenofonte e Aristófanes apresentam retratos diferentes de Sócrates. Seus textos pertencem a gêneros e projetos intelectuais distintos. O julgamento de 399 a.C. deve ser estudado nesse contexto, evitando tanto uma leitura puramente heroica quanto explicações que ignorem as tensões da cidade."
+          ]
+        },
+        {
           "titulo": "Perguntar e examinar",
           "paragrafos": [
             "O filósofo tornou-se associado ao diálogo e à investigação de conceitos como justiça, coragem e virtude. Nem toda fala do personagem Sócrates nos diálogos de Platão pode ser atribuída diretamente ao Sócrates histórico."
@@ -854,7 +924,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -909,6 +979,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "Os diálogos platônicos exploram questões filosóficas por meio de personagens que argumentam, discordam e revisam posições. A forma literária é parte do problema interpretativo: nem toda fala de um personagem pode ser atribuída diretamente ao autor, e as conclusões nem sempre aparecem de maneira definitiva.",
+            "A reflexão de Platão sobre educação, conhecimento e política dialoga com a experiência ateniense e com a figura de Sócrates. Ao analisar textos como a República, é importante separar propostas normativas, imagens alegóricas e circunstâncias históricas, sem transformá-las em descrições diretas de instituições existentes."
+          ]
+        },
+        {
           "titulo": "A relação com Sócrates",
           "paragrafos": [
             "Platão foi profundamente marcado por Sócrates, mas seus diálogos não são transcrições literais de conversas. A distinção entre as ideias dos dois filósofos é tema de investigação acadêmica."
@@ -941,7 +1018,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1000,6 +1077,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "Aristóteles desenvolveu investigações em campos que hoje costumamos separar, como lógica, biologia, ética e política. Essa amplitude não implica que todas as áreas utilizem exatamente o mesmo método. Seus escritos examinam causas, classificações e argumentos de acordo com os objetos estudados.",
+            "Parte significativa da recepção aristotélica ocorreu por meio de comentários, traduções e disputas interpretativas. A importância histórica do autor não exige aceitar suas conclusões sem crítica. Ao contrário, observar como diferentes tradições corrigiram ou rejeitaram suas teses ajuda a compreender a transformação do conhecimento."
+          ]
+        },
+        {
           "titulo": "Um campo amplo de investigação",
           "paragrafos": [
             "Seus escritos tratam de lógica, ética, política, biologia e explicações da natureza. Essa variedade mostra como as divisões atuais entre disciplinas nem sempre se aplicam ao mundo antigo."
@@ -1032,7 +1116,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1075,6 +1159,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "Hipátia atuou em Alexandria durante a Antiguidade Tardia, em um ambiente intelectual no qual matemática, astronomia e filosofia mantinham vínculos estreitos. O que sabemos de seu trabalho depende de testemunhos fragmentários, e nem todas as obras que lhe foram atribuídas chegaram até nós.",
+            "Seu assassinato ocorreu em um contexto de conflitos de poder na cidade. Narrativas posteriores fizeram de Hipátia um símbolo de debates sobre religião, ciência e intolerância. Embora essas leituras tenham importância cultural, a pesquisa histórica precisa distinguir as fontes sobre os acontecimentos das interpretações produzidas séculos depois."
+          ]
+        },
+        {
           "titulo": "Um contexto político complexo",
           "paragrafos": [
             "Alexandria era palco de disputas entre autoridades civis e religiosas. Reduzir a história de Hipátia a um conflito simples entre ciência e religião apaga a complexidade dessas relações."
@@ -1107,7 +1198,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1150,6 +1241,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "A expressão 'Império Bizantino' é uma convenção historiográfica posterior. Seus habitantes, em muitos contextos, compreendiam-se como romanos. A continuidade de instituições imperiais coexistiu com mudanças na língua administrativa, nas relações religiosas e na extensão territorial.",
+            "Estudar mais de mil anos de história exige evitar a ideia de um império imóvel. Guerras, comércio, disputas teológicas e transformações sociais alteraram suas estruturas. A conquista de Constantinopla em 1453 encerrou o governo imperial na cidade, mas não eliminou imediatamente seu legado cultural e religioso."
+          ]
+        },
+        {
           "titulo": "Mudanças ao longo de mil anos",
           "paragrafos": [
             "O império passou por transformações políticas, territoriais, linguísticas e religiosas. Constantinopla foi um centro importante, mas sua história não se resume à capital."
@@ -1182,7 +1280,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1233,6 +1331,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "O humanismo renascentista envolveu práticas de leitura, ensino e edição de textos antigos. A atenção à gramática, à retórica e à comparação de manuscritos contribuiu para formas específicas de crítica textual. Não se tratava de um movimento uniforme nem de uma rejeição generalizada da religião.",
+            "A circulação dessas práticas dependia de professores, bibliotecas, patrocinadores e redes de correspondência. A valorização de autores clássicos também levantava problemas de tradução e interpretação. O estudo do humanismo deve investigar tanto suas contribuições quanto seus limites sociais e geográficos."
+          ]
+        },
+        {
           "titulo": "Educação e vida pública",
           "paragrafos": [
             "A formação humanista buscava desenvolver habilidades de leitura, escrita e argumentação. Seus objetivos variavam conforme cidades, instituições e grupos sociais."
@@ -1265,7 +1370,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1316,6 +1421,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "A impressão europeia com tipos móveis metálicos combinou técnicas de composição, tinta, papel e prensagem. Sua difusão foi condicionada por oficinas, custos, mercados de livros e demanda por textos. Não surgiu em um mundo sem antecedentes: diferentes técnicas de impressão já existiam na Ásia.",
+            "A multiplicação de exemplares ampliou possibilidades de circulação, mas não tornou a leitura universal nem eliminou a censura. A importância histórica da imprensa aparece melhor quando examinamos as relações entre tecnologia, comércio, alfabetização, autoridades religiosas e instituições de ensino."
+          ]
+        },
+        {
           "titulo": "A reprodução de textos",
           "paragrafos": [
             "A impressão favoreceu a produção de múltiplos exemplares de obras e ajudou a expandir circuitos de leitura. A alfabetização e o acesso a livros continuaram desiguais."
@@ -1348,7 +1460,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1399,6 +1511,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "Leonardo trabalhou em contextos de oficina e patronagem nos quais pintura, engenharia e projetos de corte se entrelaçavam. Seus cadernos registram observações e hipóteses sobre diferentes fenômenos. Esses documentos permitem estudar processos de investigação, mas não autorizam tratar cada desenho como uma invenção plenamente executada.",
+            "A imagem moderna de um gênio isolado pode obscurecer a importância de colaboradores, mestres e tradições técnicas. Analisar suas obras exige distinguir experimentos, encomendas artísticas, esboços e realizações. Também é necessário considerar como manuscritos e desenhos foram reunidos e interpretados depois de sua morte."
+          ]
+        },
+        {
           "titulo": "Cadernos e observação",
           "paragrafos": [
             "Seus desenhos e anotações abordaram anatomia, água, máquinas e movimento. Muitos projetos registrados nos cadernos não foram construídos, o que exige cuidado ao chamá-los de invenções realizadas."
@@ -1431,7 +1550,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1482,6 +1601,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "O termo 'Revolução Científica' designa transformações em modos de investigar a natureza, especialmente na Europa dos séculos XVI e XVII. A expressão, porém, é debatida: algumas mudanças foram rápidas, enquanto outras dependeram de tradições matemáticas e observacionais anteriores.",
+            "Instrumentos, instituições, impressos e redes de correspondência influenciaram a circulação de argumentos. A história do período não deve ser reduzida a uma sequência de grandes nomes. É importante estudar também disputas sobre evidências, autoridade, métodos e as condições sociais que tornavam possível a pesquisa."
+          ]
+        },
+        {
           "titulo": "Observar, calcular e argumentar",
           "paragrafos": [
             "Astronomia, física e outros campos passaram por debates sobre modelos explicativos, observações e métodos. Diferentes pesquisadores combinaram práticas novas com tradições herdadas."
@@ -1514,7 +1640,7 @@
         "explicacao": "A pesquisa histórica depende de fontes contextualizadas, comparação de interpretações e atenção aos limites da documentação."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1561,6 +1687,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "Antes da chegada dos europeus, o território hoje chamado Brasil abrigava populações com histórias, línguas e organizações sociais diversas. A ideia de um único modo de vida indígena apaga diferenças regionais e mudanças ao longo do tempo. Vestígios arqueológicos e estudos linguísticos oferecem pistas sobre ocupações e redes de interação.",
+            "O marco de 1500 corresponde a uma mudança decisiva na documentação colonial, não ao começo da história dessas populações. Tradições orais e pesquisas realizadas por intelectuais indígenas ampliam as perguntas e contestam interpretações que tratavam esses povos apenas como objetos de observação externa."
+          ]
+        },
+        {
           "titulo": "Diversidade de sociedades",
           "paragrafos": [
             "Povos com línguas, tecnologias, formas de organização e relações ambientais distintas ocupavam florestas, campos, litoral e outras paisagens. A ideia de um território vazio antes da chegada europeia é historicamente incorreta."
@@ -1593,7 +1726,7 @@
         "explicacao": "Havia grande diversidade de povos, línguas, práticas e organizações sociais muito antes da colonização."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1644,6 +1777,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "A colonização portuguesa envolveu conquista territorial, formação de instituições administrativas e exploração econômica. Esses processos não ocorreram de maneira uniforme: alianças, conflitos e resistências alteraram os projetos coloniais em diferentes regiões.",
+            "A escravização de indígenas e africanos foi central para múltiplas atividades econômicas e estruturas de poder. Documentos produzidos por autoridades coloniais registram parte dessas experiências, mas frequentemente silenciam as perspectivas dos grupos submetidos à violência. A pesquisa histórica precisa confrontar diferentes tipos de fonte."
+          ]
+        },
+        {
           "titulo": "Trabalho e violência",
           "paragrafos": [
             "A economia colonial recorreu à escravização indígena e, em larga escala, ao tráfico transatlântico de africanos escravizados. Esse sistema produziu riquezas para determinados grupos e violências profundas para milhões de pessoas."
@@ -1676,7 +1816,7 @@
         "explicacao": "A história colonial inclui diferentes formas de resistência, negociação e organização social."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1727,6 +1867,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "A independência brasileira ocorreu em meio a conflitos sobre a organização do mundo português após a transferência da corte para o Rio de Janeiro e a Revolução do Porto. A ruptura de 1822 não se resumiu a um gesto isolado: diferentes províncias viveram disputas políticas e militares.",
+            "A formação de um Estado independente preservou a escravidão e grandes desigualdades sociais. Por isso, é fundamental distinguir soberania política de democratização. O estudo também deve considerar os projetos de grupos que não controlavam o governo central e os debates que acompanharam a consolidação do Império."
+          ]
+        },
+        {
           "titulo": "Ruptura e conflitos",
           "paragrafos": [
             "A proclamação de 1822 tornou-se um marco simbólico, mas a separação envolveu disputas políticas e combates em diferentes províncias. Grupos sociais participaram do processo de maneiras desiguais."
@@ -1759,7 +1906,7 @@
         "explicacao": "A separação foi um processo com conflitos regionais e não acabou com a escravidão."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1810,6 +1957,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "A mudança de regime em novembro de 1889 ocorreu após tensões entre setores militares, grupos republicanos e a monarquia. A abolição da escravidão, no ano anterior, transformou o cenário político, mas não resolveu as desigualdades construídas durante séculos.",
+            "A República não nasceu acompanhada de participação política universal. As regras eleitorais, o federalismo e as relações entre elites regionais influenciaram a organização do novo regime. Uma análise histórica precisa comparar os ideais republicanos com as condições concretas de cidadania."
+          ]
+        },
+        {
           "titulo": "A mudança de 15 de novembro",
           "paragrafos": [
             "Militares tiveram papel central na derrubada da monarquia. A participação popular no evento foi limitada, e a transição não resolveu as desigualdades herdadas do período anterior."
@@ -1842,7 +1996,7 @@
         "explicacao": "A mudança de regime foi protagonizada por setores militares e não representou participação política ampla."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1893,6 +2047,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "O golpe de 1964 interrompeu a ordem democrática e inaugurou um regime autoritário. Ao longo do período, atos institucionais e outros instrumentos ampliaram poderes do Executivo e restringiram direitos. A repressão incluiu perseguição política, censura, prisões arbitrárias e tortura.",
+            "A experiência social do regime foi desigual e não pode ser descrita apenas a partir dos governos militares. Trabalhadores, estudantes, movimentos sociais, organizações religiosas e grupos políticos desenvolveram formas variadas de resistência. Arquivos oficiais e testemunhos devem ser confrontados criticamente, inclusive ao investigar responsabilidades e políticas de memória."
+          ]
+        },
+        {
           "titulo": "Repressão e resistência",
           "paragrafos": [
             "Censura, prisões arbitrárias, tortura e desaparecimentos forçados marcaram o período. Diferentes setores da sociedade organizaram formas de oposição e defesa de direitos."
@@ -1925,7 +2086,7 @@
         "explicacao": "O regime restringiu liberdades e promoveu perseguições; o período também teve resistência social."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   },
   {
@@ -1972,6 +2133,13 @@
           ]
         },
         {
+          "titulo": "Aprofundamento: contexto e interpretação",
+          "paragrafos": [
+            "A Constituição de 1988 foi elaborada durante a transição para a democracia, com participação de representantes eleitos e pressões de movimentos sociais. O texto reorganizou instituições e estabeleceu um conjunto amplo de direitos e garantias, tornando-se referência para a ordem constitucional brasileira contemporânea.",
+            "A existência de direitos no texto não assegura sua aplicação automática. Estudar a Constituição exige compreender mecanismos institucionais, disputas interpretativas e políticas públicas. Também é necessário distinguir a redação original das mudanças introduzidas por emendas constitucionais ao longo do tempo."
+          ]
+        },
+        {
           "titulo": "Direitos e instituições",
           "paragrafos": [
             "O texto constitucional estabeleceu direitos fundamentais e bases institucionais para políticas sociais, participação política e controle do poder estatal."
@@ -2004,7 +2172,7 @@
         "explicacao": "A Constituição de 1988 é um marco da redemocratização e da ampliação de garantias constitucionais."
       }
     ],
-    "estadoEditorial": "em-revisao",
+    "estadoEditorial": "rascunho-em-expansao",
     "objetivoEditorial": "Ampliar pesquisa, documentar afirmações e registrar referências específicas antes de uso acadêmico."
   }
 ]
