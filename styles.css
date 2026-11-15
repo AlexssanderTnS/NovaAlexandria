@@ -914,3 +914,26 @@ dialog .primary {
 @media(max-width:1050px){.home-start-inner{grid-template-columns:1fr;gap:20px}.home-start p:not(.eyebrow){max-width:670px}}
 @media(max-width:650px){.home-start{padding:52px 18px 12px}.home-start-options{grid-template-columns:1fr}.home-start-options a{min-height:145px;padding:22px}.home-start h2{font-size:32px}}
 @media(prefers-reduced-motion:reduce){.home-start-options a{transition:none}}
+
+/* Home: componentes próprios, alinhados à identidade original. */
+.na-collection,.na-pathways{max-width:1180px;margin:0 auto;padding:76px 28px 90px}
+.na-section-heading{display:flex;align-items:end;justify-content:space-between;gap:24px;margin-bottom:30px}
+.na-section-heading h2{font:clamp(30px,3.5vw,46px)/1.2 "Playfair Display",Georgia,serif;margin:8px 0 0;color:var(--ink)}
+.na-section-heading>a{font-size:13px;text-decoration:none;font-weight:700;color:var(--blue)}
+.na-section-heading>a:hover{text-decoration:underline}
+.na-collection-list{border-top:1px solid var(--sand-light)}
+.na-collection-list>a{display:grid;grid-template-columns:50px minmax(0,1fr) 25px;align-items:center;gap:20px;padding:22px 8px;border-bottom:1px solid var(--sand-light);text-decoration:none;transition:background .2s}
+.na-collection-list>a:hover{background:#eee8da}
+.na-collection-num{font-size:12px;color:var(--terracotta-deep)}
+.na-collection-text{display:flex;flex-direction:column;gap:4px}
+.na-collection-text small{font-size:10px;letter-spacing:.12em;color:var(--terracotta-deep);font-weight:700}
+.na-collection-text strong{font:clamp(22px,2.5vw,31px)/1.3 "Playfair Display",Georgia,serif;font-weight:500}
+.na-collection-text>span{font-size:13px;color:#656963}
+.na-collection-arrow{font-size:23px;color:var(--blue)}
+.na-pathways{padding-top:55px}
+.na-pathway-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.na-pathway-links a{padding:22px 18px;border-top:2px solid var(--sand);display:flex;flex-direction:column;gap:8px;text-decoration:none}
+.na-pathway-links a:hover{background:#eee8da}
+.na-pathway-links strong{font:24px "Playfair Display",Georgia,serif}
+.na-pathway-links span{font-size:12px;color:var(--blue)}
+@media(max-width:650px){.na-section-heading{align-items:start;flex-direction:column}.na-pathway-links{grid-template-columns:1fr}.na-collection,.na-pathways{padding-left:20px;padding-right:20px}.na-collection-list>a{grid-template-columns:28px minmax(0,1fr) 20px;gap:10px}}
