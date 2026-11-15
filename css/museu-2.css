@@ -1,0 +1,34 @@
+/* NOVA ALEXANDRIA 2.0 — Museu Digital / identidade institucional */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:wght@400;700&display=swap');
+:root{--ivory:#171b1d;--sand:#66706c;--gold:#b39a72;--terracotta:#925c50;--blue:#b39a72;--ink:#e8e1d5;--surface:#22282a;--sand-light:#42494a;--gold-deep:#d9c39d;--terracotta-deep:#b98b7c;--blue-soft:#303a3b}
+html{scroll-behavior:smooth}body{background:#171b1d;color:#e8e1d5;font-family:'DM Sans',Arial,sans-serif;line-height:1.7}
+h1,h2,h3,.hero-copy h1{font-family:'Libre Baskerville',Georgia,serif;letter-spacing:-.035em;line-height:1.2}
+.nav{height:auto;min-height:92px;padding:12px clamp(20px,5vw,90px);background:#171b1d;border-bottom:1px solid #444641;position:relative;z-index:30;gap:20px}
+.brand-logo{width:270px;height:64px;object-fit:contain}
+.desktop-nav{gap:clamp(12px,2vw,28px)}.desktop-nav a,.login{font-size:13px;letter-spacing:.035em;color:#e6dfd2}.desktop-nav a:hover,.desktop-nav a[aria-current],.login:hover{color:#d5bb90}
+.login,.primary{background:#b39a72!important;color:#171b1d!important;border:1px solid #b39a72!important;border-radius:2px!important;font-weight:700!important;box-shadow:none!important}
+.secondary{border-radius:2px!important;border:1px solid #b39a72!important;color:#e6dfd2!important;background:transparent!important}
+.eyebrow{color:#c8b18b!important;letter-spacing:.19em!important;font-size:11px!important;font-weight:700!important;text-transform:uppercase}
+.hero{background:#171b1d!important}.scene-scroll{background:#171b1d!important}.scene{position:relative}.scene:after{content:"";pointer-events:none;position:absolute;inset:0;background:linear-gradient(90deg,rgba(14,18,19,.89) 0%,rgba(14,18,19,.65) 42%,rgba(14,18,19,.10) 100%);z-index:1}.scene>img{filter:grayscale(.5) brightness(.62) sepia(.18)}.hero-copy{z-index:3!important;color:#f0e9dd!important;max-width:720px!important}.hero-copy h1{color:#f0e9dd!important;font-size:clamp(38px,5vw,72px)!important;line-height:1.12!important}.hero-copy p{color:#ded8cc!important}.hotspot{z-index:4!important}.scene-caption{z-index:3!important;color:#e6dfd2!important}.scene-instruction{background:#171b1d!important;color:#c4bcb0!important}
+.home-start,.destinations,.featured,.about,.explore,.collections,.content-section,main>section:not(.hero){background:#171b1d;color:#e8e1d5}
+.home-start{border-top:1px solid #45423d!important;border-bottom:1px solid #45423d!important}.home-start-inner{gap:clamp(24px,5vw,70px)!important}.home-start-options a,.cards article{background:#22282a!important;border:1px solid #444641!important;border-radius:2px!important;box-shadow:none!important;color:#e8e1d5!important}.home-start-options a:hover,.cards article:hover{border-color:#b39a72!important;transform:translateY(-2px)}.home-start-options small,.cards p,.intro{color:#c4c0b8!important}.home-start-number,.home-start-arrow{color:#d3b88e!important}
+h1,h2,h3{color:#eee7db}a{transition:color .18s,border-color .18s,background .18s}a:hover{color:#d9c39d}
+footer{background:#111416!important;color:#c6bdae!important;border-top:1px solid #444641!important}
+input,select,textarea{background:#252c2d!important;color:#f1eadd!important;border:1px solid #596061!important;border-radius:2px!important}input::placeholder{color:#b2b5b0}
+button{border-radius:2px}a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #d9c39d;outline-offset:3px}
+.mobile-nav{background:#1c2223!important;color:#e8e1d5!important;border-bottom:1px solid #45423d}
+dialog{background:#22282a!important;color:#e8e1d5!important;border:1px solid #b39a72!important;border-radius:3px!important}
+.teia-intro,.acervo-intro,.agora-intro,.brasil-intro{background:#1c2223!important;border-bottom:1px solid #42494a!important}
+.teia-visual,.teia-leitura,.explorador,.jornada,.teia-canvas{border-color:#515453!important}
+.teia-leitura,.teia-visual{background:#242b2c!important;color:#e8e1d5!important}
+.teia-modos button,.teia-controles select{background:#252c2d!important;color:#e8e1d5!important;border-color:#5a5e5c!important}
+.teia-modos button.ativo{background:#b39a72!important;color:#171b1d!important}
+.leitura-resumo,.leitura-texto,.teia-nota{color:#c6c4bc!important}
+body.na2 .na2-exhibit{padding:clamp(48px,8vw,120px) clamp(20px,7vw,110px);background:#22282a;display:grid;grid-template-columns:minmax(0,1.2fr) minmax(260px,.8fr);gap:clamp(25px,5vw,80px);align-items:center;border-top:1px solid #45423d}
+.na2-exhibit .na2-art{min-height:360px;background:linear-gradient(145deg,#384041,#171b1d);border:1px solid #58544a;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden}
+.na2-exhibit .na2-art:before{content:"Α";font:300 clamp(170px,30vw,420px)/1 Georgia,serif;color:#b39a72;opacity:.22}
+.na2-exhibit .na2-art:after{content:"ACERVO · NOVA ALEXANDRIA";position:absolute;bottom:24px;left:25px;font-size:10px;letter-spacing:.2em;color:#c8b18b}
+.na2-exhibit h2{font-size:clamp(30px,3.6vw,52px)}.na2-exhibit p:not(.eyebrow){color:#d0cbc1;max-width:52ch}
+.na2-exhibit a{display:inline-block;margin-top:18px;border-bottom:1px solid #b39a72;text-decoration:none;padding-bottom:6px;color:#e6d6b8}
+@media(max-width:850px){.nav{min-height:76px;padding:10px 18px}.brand-logo{width:215px;height:52px}.na2-exhibit{grid-template-columns:1fr!important}.na2-exhibit .na2-art{min-height:260px}.scene:after{background:linear-gradient(90deg,rgba(14,18,19,.82),rgba(14,18,19,.28))}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}}
