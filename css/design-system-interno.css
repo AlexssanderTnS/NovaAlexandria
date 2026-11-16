@@ -95,3 +95,15 @@ footer{background:var(--surface);border-top:1px solid var(--sand-light);padding:
 .teia-intro .na-hero-layout h1{font-size:clamp(34px,4vw,55px)}
 @media(max-width:900px){.na-hero-layout{grid-template-columns:1fr}.na-hero-art{min-height:230px;max-height:310px;aspect-ratio:2.2}.na-hero-layout h1{max-width:760px}}
 @media(max-width:520px){.na-hero-art{min-height:190px;aspect-ratio:1.7}.na-hero-art--text>span{font-size:52px}}
+
+
+/* Imagens dos assuntos: formato consistente e conteúdo sempre legível. */
+.na-topic-image{display:block;width:100%;height:190px;object-fit:cover;object-position:center;background:var(--blue-soft);border-radius:calc(var(--na-radius) - 3px);border:1px solid var(--sand-light)}
+.acervo-card .na-topic-image,.brasil-card .na-topic-image{margin-bottom:9px}
+.acervo-grid,.agora-grid,.brasil-cards{align-items:stretch}
+.assunto-imagem{background:var(--blue-soft);height:195px}
+.assunto-imagem img{width:100%;height:100%;object-fit:cover}
+.na-teia-imagem{margin:20px 0 24px;border:1px solid var(--sand-light);border-radius:var(--na-radius);overflow:hidden;background:var(--blue-soft)}
+.na-teia-imagem img{display:block;width:100%;height:180px;object-fit:cover}
+.na-teia-imagem figcaption{padding:9px 12px;font-size:10px;color:var(--na-muted);background:var(--surface)}
+@media(max-width:520px){.na-topic-image{height:170px}.na-teia-imagem img{height:150px}}
