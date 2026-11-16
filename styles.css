@@ -915,25 +915,78 @@ dialog .primary {
 @media(max-width:650px){.home-start{padding:52px 18px 12px}.home-start-options{grid-template-columns:1fr}.home-start-options a{min-height:145px;padding:22px}.home-start h2{font-size:32px}}
 @media(prefers-reduced-motion:reduce){.home-start-options a{transition:none}}
 
-/* Home: componentes próprios, alinhados à identidade original. */
-.na-collection,.na-pathways{max-width:1180px;margin:0 auto;padding:76px 28px 90px}
-.na-section-heading{display:flex;align-items:end;justify-content:space-between;gap:24px;margin-bottom:30px}
-.na-section-heading h2{font:clamp(30px,3.5vw,46px)/1.2 "Playfair Display",Georgia,serif;margin:8px 0 0;color:var(--ink)}
-.na-section-heading>a{font-size:13px;text-decoration:none;font-weight:700;color:var(--blue)}
-.na-section-heading>a:hover{text-decoration:underline}
+
+/* Home 2.0 — Design System derivado exclusivamente das variáveis originais.
+   Tipografia: Playfair Display + Montserrat. Sem novos tokens de cor. */
+:root{--na-space:clamp(80px,8vw,120px);--na-content:1180px;--na-radius:12px}
+body{background:var(--ivory);color:var(--ink)}
+.nav{height:auto;min-height:94px;padding:12px clamp(20px,4vw,60px);gap:clamp(12px,2vw,28px);background:var(--surface);border-bottom:1px solid var(--sand-light);box-shadow:none}
+.brand-logo{width:clamp(185px,20vw,255px);height:66px}
+.desktop-nav{gap:clamp(12px,1.5vw,24px)}
+.desktop-nav a,.login{font-size:12px}
+.desktop-nav a{font-weight:600;transition:color 200ms ease}
+.desktop-nav a[aria-current=page]{color:var(--terracotta-deep)}
+.login{padding:11px 17px;border-radius:var(--na-radius);background:var(--sand);font-weight:700;transition:background 200ms ease,color 200ms ease}
+.hero-copy{border-radius:var(--na-radius);box-shadow:none;backdrop-filter:none}
+.hero-copy h1{letter-spacing:-.02em}
+.hero-copy>p:not(.eyebrow){line-height:1.8;max-width:47ch}
+.primary,.secondary{border-radius:var(--na-radius);padding:12px 19px;transition:background 200ms ease,color 200ms ease,border-color 200ms ease}
+.hotspot{transition:transform 200ms ease,background 200ms ease}
+.hotspot.farol::before,.hotspot.farol::after{animation:none}
+.hotspot .hint{box-shadow:none;transition:opacity 200ms ease,transform 200ms ease,visibility 200ms ease}
+.scene-instruction{margin-bottom:0}
+.home-start,.na-collection,.home-feature,.na-pathways{padding-block:var(--na-space)}
+.home-start{background:var(--ivory)}
+.home-start-inner,.home-feature-inner{max-width:var(--na-content);margin:auto;display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:clamp(35px,6vw,90px);align-items:start}
+.home-start h2,.na-section-heading h2,.home-feature-copy h2{font-family:"Playfair Display",Georgia,serif;letter-spacing:-.02em;line-height:1.17;font-weight:500}
+.home-start h2{font-size:clamp(32px,3.5vw,48px);margin:12px 0 20px}
+.home-start p:not(.eyebrow),.home-feature-copy p:not(.eyebrow){font-size:14px;line-height:1.85;color:color-mix(in srgb,var(--ink) 75%,var(--ivory))}
+.home-start-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.home-start-options a{min-height:182px;padding:25px;background:var(--surface);border:1px solid var(--sand-light);border-radius:var(--na-radius);display:flex;flex-direction:column;gap:12px;text-decoration:none;box-shadow:none;transition:background 200ms ease,border-color 200ms ease}
+.home-start-options a:first-child{grid-row:span 2;min-height:378px;justify-content:center;background:var(--blue-soft)}
+.home-start-options a:hover{transform:none;background:var(--sand-light);border-color:var(--gold);box-shadow:none}
+.home-start-number{font-size:10px;font-weight:700;letter-spacing:.1em;color:var(--terracotta-deep)}
+.home-start-options strong{font:500 clamp(20px,2vw,27px)/1.25 "Playfair Display",Georgia,serif;color:var(--ink);letter-spacing:-.02em}
+.home-start-options small{font:12px/1.7 Montserrat,Arial,sans-serif;color:color-mix(in srgb,var(--ink) 72%,var(--surface))}
+.home-start-arrow{font-size:18px;color:var(--blue);margin-top:auto}
+.na-collection,.na-pathways{max-width:calc(var(--na-content) + 56px);margin:auto;padding-inline:28px}
+.na-section-heading{display:flex;align-items:end;justify-content:space-between;gap:25px;margin-bottom:42px}
+.na-section-heading h2{font-size:clamp(34px,3.5vw,48px);margin:10px 0 0}
+.na-section-heading>a{color:var(--blue);text-decoration:none;font-size:12px;font-weight:700;transition:color 200ms ease}
+.na-section-heading>a:hover{color:var(--terracotta-deep)}
 .na-collection-list{border-top:1px solid var(--sand-light)}
-.na-collection-list>a{display:grid;grid-template-columns:50px minmax(0,1fr) 25px;align-items:center;gap:20px;padding:22px 8px;border-bottom:1px solid var(--sand-light);text-decoration:none;transition:background .2s}
-.na-collection-list>a:hover{background:#eee8da}
-.na-collection-num{font-size:12px;color:var(--terracotta-deep)}
-.na-collection-text{display:flex;flex-direction:column;gap:4px}
-.na-collection-text small{font-size:10px;letter-spacing:.12em;color:var(--terracotta-deep);font-weight:700}
-.na-collection-text strong{font:clamp(22px,2.5vw,31px)/1.3 "Playfair Display",Georgia,serif;font-weight:500}
-.na-collection-text>span{font-size:13px;color:#656963}
-.na-collection-arrow{font-size:23px;color:var(--blue)}
-.na-pathways{padding-top:55px}
-.na-pathway-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
-.na-pathway-links a{padding:22px 18px;border-top:2px solid var(--sand);display:flex;flex-direction:column;gap:8px;text-decoration:none}
-.na-pathway-links a:hover{background:#eee8da}
-.na-pathway-links strong{font:24px "Playfair Display",Georgia,serif}
+.na-collection-list>a{display:grid;grid-template-columns:45px minmax(0,1fr) 25px;gap:24px;align-items:center;padding:27px 12px;text-decoration:none;border-bottom:1px solid var(--sand-light);transition:background 200ms ease}
+.na-collection-list>a:hover{background:var(--surface)}
+.na-collection-num{font-size:11px;color:var(--terracotta-deep)}
+.na-collection-text{display:flex;flex-direction:column;gap:5px}
+.na-collection-text small{font-size:10px;font-weight:700;letter-spacing:.1em;color:var(--terracotta-deep)}
+.na-collection-text strong{font:500 clamp(23px,2.6vw,34px)/1.25 "Playfair Display",Georgia,serif;letter-spacing:-.02em}
+.na-collection-text>span{font-size:12px;color:color-mix(in srgb,var(--ink) 70%,var(--surface))}
+.na-collection-arrow{font-size:20px;color:var(--blue)}
+.home-feature{background:var(--blue-soft);border-block:1px solid var(--sand-light);padding-inline:24px}
+.home-feature-inner{align-items:center}
+.home-feature-copy h2{font-size:clamp(34px,3.8vw,50px);margin:12px 0 20px}
+.home-feature-copy .primary{display:inline-block;text-decoration:none;margin-top:14px}
+.home-feature-visual{position:relative;min-height:320px;background:var(--surface);border:1px solid var(--sand-light);border-radius:var(--na-radius);overflow:hidden}
+.home-feature-visual svg{position:absolute;inset:0;width:100%;height:100%}
+.home-feature-visual path{stroke:var(--gold);stroke-width:2;fill:none;stroke-dasharray:5 7}
+.feature-center{position:absolute;left:50%;top:45%;transform:translate(-50%,-50%);width:112px;height:112px;border-radius:50%;display:grid;place-items:center;text-align:center;background:var(--blue);color:var(--surface);font:600 16px "Playfair Display",Georgia,serif;box-shadow:none;z-index:2}
+.feature-node{position:absolute;z-index:2;background:var(--surface);border:1px solid var(--sand-light);border-radius:var(--na-radius);padding:9px 12px;font-size:11px;font-weight:700;box-shadow:none}
+.feature-node-a{top:14%;left:9%}.feature-node-b{top:16%;right:8%}.feature-node-c{bottom:12%;left:10%}.feature-node-d{bottom:15%;right:9%}
+.na-pathway-links{display:grid;grid-template-columns:1.3fr 1fr 1fr;gap:18px}
+.na-pathway-links a{padding:26px 22px;min-height:170px;border:1px solid var(--sand-light);border-radius:var(--na-radius);display:flex;flex-direction:column;justify-content:space-between;gap:12px;text-decoration:none;background:var(--surface);transition:background 200ms ease,border-color 200ms ease}
+.na-pathway-links a:first-child{background:var(--blue-soft)}
+.na-pathway-links a:hover{background:var(--sand-light);border-color:var(--gold)}
+.na-pathway-links strong{font:500 clamp(22px,2vw,28px) "Playfair Display",Georgia,serif;letter-spacing:-.02em}
 .na-pathway-links span{font-size:12px;color:var(--blue)}
-@media(max-width:650px){.na-section-heading{align-items:start;flex-direction:column}.na-pathway-links{grid-template-columns:1fr}.na-collection,.na-pathways{padding-left:20px;padding-right:20px}.na-collection-list>a{grid-template-columns:28px minmax(0,1fr) 20px;gap:10px}}
+.mobile-nav[hidden]{display:none!important}
+.mobile-nav{position:relative;z-index:10;border-bottom:1px solid var(--sand-light)}
+.mobile-nav a{display:block;padding:12px 10px;font-size:13px}
+.menu{min-width:42px;min-height:42px;border-radius:var(--na-radius);color:var(--ink)}
+.menu:hover{background:var(--sand-light)}
+dialog{box-shadow:none;border:1px solid var(--sand-light);border-radius:var(--na-radius)}
+@media(max-width:1050px){.nav{padding-inline:20px;gap:12px}.brand-logo{width:190px}.desktop-nav{gap:10px}.desktop-nav a{font-size:11px}.login{padding:10px 12px}.home-start-inner,.home-feature-inner{gap:35px}}
+@media(max-width:900px){.desktop-nav{display:none}.menu{display:grid;place-items:center;margin-left:0}.login{margin-left:auto}.home-start-inner{grid-template-columns:1fr}.home-start-options a:first-child{min-height:250px}.home-feature-inner{grid-template-columns:1fr}.home-feature-visual{min-height:290px}}
+@media(max-width:760px){.nav{min-height:80px;padding:10px 18px}.brand-logo{width:190px;height:58px}.hero-copy{backdrop-filter:none}.home-start,.na-collection,.home-feature,.na-pathways{padding-block:80px}.na-pathway-links{grid-template-columns:1fr 1fr}.na-pathway-links a:first-child{grid-column:1/-1}}
+@media(max-width:520px){.nav{min-height:74px;gap:8px}.brand-logo{width:165px;height:52px}.login{font-size:10px;padding:8px}.home-start-options{grid-template-columns:1fr}.home-start-options a,.home-start-options a:first-child{min-height:160px;grid-row:auto;justify-content:flex-start}.na-section-heading{align-items:start;flex-direction:column}.na-collection,.na-pathways{padding-inline:20px}.na-collection-list>a{grid-template-columns:25px minmax(0,1fr) 20px;gap:10px}.na-pathway-links{grid-template-columns:1fr}.na-pathway-links a:first-child{grid-column:auto}.home-feature{padding-inline:18px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.home-start-options a,.na-collection-list>a,.na-pathway-links a,.primary,.secondary,.desktop-nav a{transition:none}}
