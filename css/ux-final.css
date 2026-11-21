@@ -1,0 +1,111 @@
+:root {
+  --ui-focus: #a56b4c;
+  --ui-shadow: 0 14px 32px rgba(35, 75, 102, 0.11);
+}
+.nav .brand-logo {
+  width: auto;
+  max-width: min(245px, 38vw);
+  max-height: 62px;
+  object-fit: contain;
+}
+.nav, .desktop-nav, .mobile-nav {
+  font-family: "Montserrat", sans-serif;
+}
+.desktop-nav a, .mobile-nav a {
+  text-underline-offset: 5px;
+}
+.desktop-nav a[aria-current="page"], .mobile-nav a[aria-current="page"] {
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: #c9a96b;
+  text-decoration-thickness: 2px;
+}
+:where(a, button, input, select, [tabindex="0"]):focus-visible {
+  outline: 3px solid var(--ui-focus);
+  outline-offset: 3px;
+}
+:where(button, a, input) {
+  -webkit-tap-highlight-color: transparent;
+}
+.agora-grid .assunto-card {
+  height: 100%;
+  overflow: hidden;
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+.agora-grid .assunto-card:hover,
+.agora-grid .assunto-card:focus-within {
+  transform: translateY(-3px);
+  box-shadow: var(--ui-shadow);
+}
+.agora-grid .assunto-card img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+.agora-grid .assunto-corpo {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.agora-grid .assunto-corpo h3 {
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+}
+.agora-grid .assunto-corpo p {
+  line-height: 1.65;
+}
+.agora-grid .assunto-acoes {
+  margin-top: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.agora-search input {
+  min-height: 48px;
+}
+.agora-filtros button {
+  min-height: 42px;
+}
+.agora-vazio:not([hidden]) {
+  display: block;
+  padding: 24px;
+  border: 1px solid #e5dac9;
+  border-radius: 12px;
+  background: #fffdf8;
+}
+.teia-timeline-row {
+  min-height: 44px;
+}
+.teia-relacao-item p {
+  font-size: 12px;
+}
+.teia-botao-foco {
+  min-height: 42px;
+}
+@media (max-width: 760px) {
+  .nav .brand-logo {
+    max-width: min(190px, 53vw);
+    max-height: 52px;
+  }
+  .agora-grid .assunto-card:hover {
+    transform: none;
+  }
+  .agora-filtros {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 8px;
+    scrollbar-width: thin;
+  }
+  .agora-filtros button {
+    flex: 0 0 auto;
+  }
+  .teia-timeline {
+    margin-top: 18px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .agora-grid .assunto-card {
+    transition: none;
+  }
+}
