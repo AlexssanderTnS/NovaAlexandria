@@ -1,6 +1,5 @@
 
 
-
 const places = {
 
     farol: {
@@ -35,8 +34,6 @@ const places = {
 
 };
 
-
-
 const dialog = document.querySelector("#placeDialog");
 
 const title = document.querySelector("#dialogTitle");
@@ -46,8 +43,6 @@ const description = document.querySelector("#dialogText");
 const dialogLink = document.querySelector("#dialogLink");
 
 const closeDialog = document.querySelector("#closeDialog");
-
-
 
 function showPlace(place) {
 
@@ -69,8 +64,6 @@ function showPlace(place) {
 
 }
 
-
-
 document.querySelectorAll("[data-place]").forEach((button) => {
 
     button.addEventListener("click", () => {
@@ -83,8 +76,6 @@ document.querySelectorAll("[data-place]").forEach((button) => {
 
 });
 
-
-
 function hideDialog() {
 
     if (dialog && dialog.open) {
@@ -93,15 +84,9 @@ function hideDialog() {
 
 }
 
-
-
 closeDialog?.addEventListener("click", hideDialog);
 
-
-
 dialogLink?.addEventListener("click", hideDialog);
-
-
 
 dialog?.addEventListener("click", (event) => {
 
@@ -118,8 +103,6 @@ dialog?.addEventListener("click", (event) => {
     }
 
 });
-
-
 
 document.querySelectorAll("[data-demo]").forEach((link) => {
 
