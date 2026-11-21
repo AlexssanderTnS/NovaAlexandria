@@ -1,0 +1,23 @@
+/* Teia V5 — contexto e cronologia sincronizada */
+.teia-botao-foco{border:1px solid #c9a96b!important;background:#f8f5ec!important;color:#234b66!important;border-radius:8px!important;padding:8px 10px!important;white-space:nowrap}
+.teia-botao-foco[aria-pressed=true]{background:#234b66!important;color:#fff!important;border-color:#234b66!important}
+.teia-timeline{grid-column:1/-1;background:#fffdf8;border:1px solid rgba(35,75,102,.17);border-radius:14px;padding:22px;margin:14px 0 0}
+.teia-timeline-head{display:flex;justify-content:space-between;align-items:end;gap:14px;margin-bottom:18px}
+.teia-timeline-head h3{font:26px/1.2 "Playfair Display",Georgia,serif;color:#234b66;margin:5px 0 0}
+.teia-timeline-head p{font:11px/1.5 Montserrat,sans-serif;color:#756d61;margin:0}
+.teia-timeline-scroll{overflow-x:auto;scrollbar-width:thin}
+.teia-timeline-items{min-width:600px}
+.teia-timeline-scale{display:flex;justify-content:space-between;padding:0 108px 8px 175px;color:#827563;font-size:10px;border-bottom:1px solid #e9deca}
+.teia-timeline-row{display:grid;grid-template-columns:165px minmax(240px,1fr) 100px;align-items:center;gap:10px;width:100%;min-height:39px;padding:6px 0;border:0;border-bottom:1px solid #eee7da;background:transparent;color:#234b66;text-align:left;cursor:pointer}
+.teia-timeline-row:hover,.teia-timeline-row:focus-visible{background:#f5eddf}
+.teia-timeline-row.is-current{background:#f3ead9;font-weight:700}
+.teia-timeline-name{font-size:11px;line-height:1.4;padding-left:6px}
+.teia-timeline-track{height:13px;position:relative;background:repeating-linear-gradient(90deg,transparent 0,transparent calc(25% - 1px),#d9cebb calc(25% - 1px),#d9cebb 25%);border-radius:4px}
+.teia-timeline-bar{position:absolute;top:2px;height:9px;background:#a56b4c;border-radius:5px;min-width:3px}
+.teia-timeline-row.is-current .teia-timeline-bar{background:#234b66}
+.teia-timeline-period{font-size:10px;color:#756d61}
+.leitura-conexoes{display:grid!important;grid-template-columns:1fr!important;gap:8px!important}
+.teia-relacao-item{border:1px solid #e7ddcb;background:#fbf8f1;border-radius:9px;padding:10px 12px}
+.teia-relacao-item button{font-weight:700;text-align:left;border:0!important;background:transparent!important;color:#234b66!important;padding:0!important;border-radius:0!important}
+.teia-relacao-item p{margin:5px 0 0;font-size:10px;line-height:1.6;color:#71695b}
+@media(max-width:760px){.teia-timeline{padding:15px}.teia-timeline-head{display:block}.teia-timeline-head p{margin-top:8px}.teia-timeline-head h3{font-size:23px}.teia-botao-foco{font-size:10px!important;padding:7px!important}.teia-barra-acoes{flex-wrap:wrap;justify-content:flex-end}.teia-barra{align-items:start}}
