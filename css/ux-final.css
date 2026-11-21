@@ -14,11 +14,23 @@
 .desktop-nav a, .mobile-nav a {
   text-underline-offset: 5px;
 }
-.desktop-nav a[aria-current="page"], .mobile-nav a[aria-current="page"] {
+.desktop-nav a[aria-current="page"] {
+  color: #a56b4c;
   font-weight: 700;
-  text-decoration: underline;
-  text-decoration-color: #c9a96b;
-  text-decoration-thickness: 2px;
+  text-decoration: none;
+}
+.nav .desktop-nav a[aria-current="page"]::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -9px;
+  height: 2px;
+  background: #c9a96b;
+}
+.mobile-nav a[aria-current="page"] {
+  font-weight: 700;
+  text-decoration: none;
 }
 :where(a, button, input, select, [tabindex="0"]):focus-visible {
   outline: 3px solid var(--ui-focus);
@@ -107,5 +119,106 @@
 @media (prefers-reduced-motion: reduce) {
   .agora-grid .assunto-card {
     transition: none;
+  }
+}
+
+html, body {
+  max-width: 100%;
+}
+body {
+  overflow-x: clip;
+}
+.nav {
+  gap: clamp(12px, 2vw, 26px);
+}
+.desktop-nav {
+  gap: clamp(12px, 1.8vw, 24px);
+}
+.desktop-nav a {
+  white-space: nowrap;
+}
+.agora-grid .assunto-card,
+.brasil-cards .brasil-card {
+  min-width: 0;
+}
+.agora-grid .assunto-corpo p {
+  font-size: 12px !important;
+  line-height: 1.65 !important;
+}
+@media (max-width: 1100px) {
+  .nav {
+    padding-inline: 18px !important;
+  }
+  .nav .login {
+    display: none;
+  }
+}
+@media (max-width: 900px) {
+  .nav {
+    min-height: 68px !important;
+    padding: 10px 16px !important;
+  }
+  .nav .desktop-nav {
+    display: none !important;
+  }
+  .nav .menu {
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    min-width: 44px;
+    min-height: 44px;
+  }
+  .nav .brand-logo {
+    width: min(190px, 52vw) !important;
+    max-height: 54px !important;
+  }
+  .mobile-nav:not([hidden]) {
+    display: flex;
+    flex-direction: column;
+    padding: 12px 16px;
+  }
+  .mobile-nav a {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
+  .teia-layout {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+}
+@media (max-width: 680px) {
+  .agora-grid,
+  .brasil-cards {
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: 16px !important;
+  }
+  .agora-grid .assunto-card,
+  .brasil-cards .brasil-card {
+    padding: 14px !important;
+  }
+  .agora-grid .assunto-card > .assunto-imagem,
+  .brasil-cards .brasil-card > .na-topic-image {
+    height: 160px !important;
+    max-height: 160px !important;
+    min-height: 160px !important;
+  }
+  .agora-grid .assunto-corpo h3 {
+    font-size: 21px !important;
+  }
+  .agora-grid .assunto-acoes a {
+    min-height: 42px;
+    display: inline-flex;
+    align-items: center;
+  }
+  .agora-hero, .brasil-hero, .leitura-hero, .teia-intro {
+    padding-block: 34px !important;
+  }
+  .na-hero-copy h1 {
+    font-size: clamp(30px, 8vw, 40px) !important;
+  }
+  .teia-limite, .agora-wrap, .brasil-wrap {
+    width: calc(100% - 28px);
+    max-width: 100%;
   }
 }
