@@ -41,7 +41,11 @@ navio:'<path d="M125 280H525L460 350H205Z" fill="#234b66"/><path d="M325 110V280
 bandeira:'<path d="M170 110V375" stroke="#234b66" stroke-width="11"/><path d="M180 120H505V310H180Z" fill="#c9a96b" stroke="#234b66" stroke-width="6"/><path d="M342 148L460 215 342 280 225 215Z" fill="#fffdf8"/><circle cx="342" cy="215" r="39" fill="#234b66"/><path d="M305 215Q340 192 380 220" stroke="#fffdf8" stroke-width="5" fill="none"/>'
 };
 function escapeXml(v){return String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&apos;"}[c]))}
-function imagemLocal(id){const [nome,tipo,categoria]=temas[id]||["Nova Alexandria","livro","Conhecimento"];const svg='<svg xmlns="http:
+function imagemLocal(id){
+  const [nome,tipo,categoria]=temas[id]||["Nova Alexandria","livro","Conhecimento"];
+  const svg='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 430" role="img" aria-label="'+escapeXml(nome)+'"><defs><linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#e5eef0"/><stop offset="100%" stop-color="#e8dcc4"/></linearGradient></defs><rect width="650" height="430" fill="url(#fundo)"/><circle cx="520" cy="90" r="110" fill="#c9a96b" opacity=".2"/><path d="M0 385 Q160 340 325 390 T650 370 V430 H0Z" fill="#234b66" opacity=".12"/>'+(shapes[tipo]||shapes.livro)+'<text x="325" y="405" text-anchor="middle" fill="#234b66" font-size="17" font-family="Georgia,serif">'+escapeXml(categoria)+'</text></svg>';
+  return "data:image/svg+xml;charset=UTF-8,"+encodeURIComponent(svg);
+}
 function aplicar(img,id){if(!img)return;img.src=imagemLocal(id);img.decoding="async";img.loading=img.loading||"lazy";img.onerror=()=>{img.onerror=null;img.src=imagemLocal("biblioteca-alexandria")};}
 window.NAImagens={aplicar,obter:id=>Promise.resolve({src:imagemLocal(id),source:null}),fallback:imagemLocal("biblioteca-alexandria")};
 })();
