@@ -1,5 +1,4 @@
-/* Ilustrações editoriais locais por assunto. Não dependem de APIs externas.
-   Imagens vetoriais originais em SVG geradas no próprio navegador. */
+
 (function(){
 "use strict";
 const temas={
@@ -42,7 +41,7 @@ navio:'<path d="M125 280H525L460 350H205Z" fill="#234b66"/><path d="M325 110V280
 bandeira:'<path d="M170 110V375" stroke="#234b66" stroke-width="11"/><path d="M180 120H505V310H180Z" fill="#c9a96b" stroke="#234b66" stroke-width="6"/><path d="M342 148L460 215 342 280 225 215Z" fill="#fffdf8"/><circle cx="342" cy="215" r="39" fill="#234b66"/><path d="M305 215Q340 192 380 220" stroke="#fffdf8" stroke-width="5" fill="none"/>'
 };
 function escapeXml(v){return String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&apos;"}[c]))}
-function imagemLocal(id){const [nome,tipo,categoria]=temas[id]||["Nova Alexandria","livro","Conhecimento"];const svg='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 430" role="img" aria-label="'+escapeXml(nome)+'"><rect width="650" height="430" fill="#f8f5ec"/><rect x="16" y="16" width="618" height="398" rx="15" fill="#e9ddc7"/><circle cx="520" cy="94" r="120" fill="#dbe5e7"/><circle cx="126" cy="355" r="105" fill="#c9a96b" opacity=".25"/>'+shapes[tipo]+'<rect x="28" y="382" width="594" height="32" fill="#fffdf8"/><text x="42" y="404" font-family="Georgia,serif" font-size="17" fill="#234b66">'+escapeXml(categoria)+' · Nova Alexandria</text></svg>';return "data:image/svg+xml;charset=utf-8,"+encodeURIComponent(svg)}
+function imagemLocal(id){const [nome,tipo,categoria]=temas[id]||["Nova Alexandria","livro","Conhecimento"];const svg='<svg xmlns="http:
 function aplicar(img,id){if(!img)return;img.src=imagemLocal(id);img.decoding="async";img.loading=img.loading||"lazy";img.onerror=()=>{img.onerror=null;img.src=imagemLocal("biblioteca-alexandria")};}
 window.NAImagens={aplicar,obter:id=>Promise.resolve({src:imagemLocal(id),source:null}),fallback:imagemLocal("biblioteca-alexandria")};
 })();
