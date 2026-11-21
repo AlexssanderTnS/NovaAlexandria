@@ -1,0 +1,46 @@
+/* Teia do Tempo — exploração editorial V4. Mantém identidade Nova Alexandria. */
+.teia-intro{padding-block:48px!important}
+.teia-intro .na-hero-layout{grid-template-columns:minmax(0,1fr)!important}
+.teia-intro .na-hero-art{display:none!important}
+.teia-intro h1{max-width:740px;font-size:clamp(32px,4vw,52px)!important}
+.teia-intro .na-hero-copy>p:last-child{max-width:650px;line-height:1.7!important}
+.explorador{padding-top:32px!important}
+.explorador-topo{margin-bottom:18px}
+.explorador-topo h2{font-size:clamp(28px,3vw,37px)}
+.teia-modos{margin-bottom:12px}
+.teia-modos button{border-radius:9px;padding:10px 14px}
+.jornada{padding:12px 16px;margin-bottom:12px;border-radius:12px}
+.jornada-titulo{margin-bottom:8px}
+.trilha button{padding:6px 10px}
+.teia-legenda{margin-bottom:13px}
+.teia-layout{grid-template-columns:minmax(0,1.6fr) minmax(285px,.75fr)!important;gap:16px!important;align-items:start}
+.teia-visual,.teia-leitura{border-radius:14px!important;box-shadow:none!important;border:1px solid rgba(35,75,102,.17)!important}
+.teia-visual{min-width:0;overflow:hidden}
+.teia-barra,.teia-rodape{padding:12px 16px}
+.teia-barra-titulo{color:#234b66}
+.teia-canvas{height:565px!important;min-height:0!important;overflow:auto!important;overscroll-behavior:contain;scrollbar-width:thin;background:radial-gradient(ellipse at center,#fffdf8 0%,#f5efe4 78%,#eee4d3 100%)!important}
+.teia-canvas svg{display:block;width:100%;height:100%;min-width:0;overflow:visible}
+.teia-no{outline:none;cursor:pointer}
+.teia-no:focus-visible circle:nth-child(2){stroke:#a56b4c!important;stroke-width:5!important;filter:drop-shadow(0 0 5px #c9a96b)}
+.teia-no .teia-nome{font-size:12.5px;letter-spacing:0;paint-order:normal}
+.teia-fio{stroke-opacity:.65;transition:stroke-opacity .2s ease,stroke-width .2s ease}
+.teia-fio.is-highlight{stroke-opacity:1;stroke-width:5}
+.teia-fio.is-muted{stroke-opacity:.07}
+.teia-leitura{padding:22px!important;min-height:0!important;position:sticky;top:18px}
+.leitura-kicker{margin-top:16px}
+.leitura-epoca{margin-top:6px}
+.teia-leitura h2{font-size:clamp(24px,2.2vw,32px);margin:8px 0 12px}
+.na-teia-imagem{margin:12px 0 14px}
+.na-teia-imagem img{height:115px!important;object-fit:cover}
+.leitura-resumo{font-size:12px;line-height:1.65;margin-bottom:12px;padding-left:12px}
+.leitura-texto{max-height:150px;overflow:auto;scrollbar-width:thin}
+.leitura-texto p{font-size:11px;line-height:1.7}
+.leitura-conexoes button{padding:7px 9px;font-size:10px}
+.leitura-acoes{padding-top:16px;gap:10px}
+.teia-dica{font-size:11px;line-height:1.5}
+.teia-visual.modo-foco{position:fixed!important;inset:16px!important;z-index:9999}
+.teia-visual.modo-foco .teia-canvas{height:auto!important;flex:1}
+@media(max-width:1080px){.teia-layout{grid-template-columns:minmax(0,1fr)!important}.teia-leitura{position:static;display:grid;grid-template-columns:1fr 1fr;column-gap:24px}.teia-leitura .leitura-topo,.teia-leitura .leitura-kicker,.teia-leitura .leitura-epoca,.teia-leitura h2,.teia-leitura .leitura-resumo,.teia-leitura .leitura-relacao,.teia-leitura .leitura-acoes{grid-column:1/-1}.teia-leitura .na-teia-imagem{grid-column:1;grid-row:auto}.teia-leitura .leitura-texto{grid-column:2;max-height:190px}.teia-leitura .leitura-divisor,.teia-leitura h3,.teia-leitura .leitura-conexoes{grid-column:1/-1}}
+@media(max-width:760px){.teia-layout{gap:12px!important}.teia-canvas{height:440px!important;min-height:0!important;overflow-x:auto!important;overflow-y:hidden!important;touch-action:pan-x pan-y}.teia-canvas svg{width:820px!important;min-width:820px!important;height:440px!important;max-width:none!important}.teia-leitura{display:flex;position:static;padding:18px!important}.teia-leitura .na-teia-imagem{margin:10px 0}.teia-leitura .leitura-texto{max-height:120px}.teia-visual.modo-foco .teia-canvas{overflow:auto!important}.teia-visual.modo-foco .teia-canvas svg{width:900px!important;min-width:900px!important;height:100%!important}.teia-barra,.teia-rodape{padding:11px 12px}.teia-rodape>span{max-width:230px}.teia-modos span{margin-top:5px}.teia-intro{padding-block:34px!important}}
+@media(max-width:420px){.teia-canvas{height:390px!important}.teia-canvas svg{height:390px!important}.teia-barra-titulo{font-size:11px}.teia-barra-acoes{gap:6px}.teia-barra-acoes button{font-size:10px}.teia-legenda{gap:9px}.teia-legenda span{font-size:9px}}
+@media(prefers-reduced-motion:reduce){.teia-fio,.teia-no{transition:none!important}}
